@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-#  - title: "Posts"
-#    url: /posts/
+  - title: "Volunteers"
+    url: /volunteer/
   - title: "Schedule"
     url: /schedule/
   - title: "Workshops"
