@@ -1,6 +1,6 @@
 ---
 permalink: /volunteer/
-title: "Volunteer Infomration"
+title: "Volunteer Information"
 author_profile: false
 toc: true
 toc_lable: "Contents"
