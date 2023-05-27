@@ -3,7 +3,7 @@ permalink: /volunteer/
 title: "Volunteer Information"
 author_profile: false
 toc: true
-toc_lable: "Contents"
+toc_label: "Contents"
 toc_icon: "raygun"
 ---
 
