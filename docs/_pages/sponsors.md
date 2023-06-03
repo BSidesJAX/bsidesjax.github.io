@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 :bangbang: **Sponsorship Opportunity**:
-Interestd in being a sponsor for this year's event check out the [Spnsor Kit](/assets/files/BSides_Jax_2023_Sponsor_Kit.pdf) and send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
+Interested in being a sponsor for this year's event check out the [Sponsor Kit](/assets/files/BSides_Jax_2023_Sponsor_Kit.pdf) and send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
 {: .notice--info}
 
 ## 2023 Sponsors
