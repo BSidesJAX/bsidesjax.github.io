@@ -4,12 +4,12 @@ title: "About"
 author_profile: false
 ---
 
-Security BSides Jacksonville (a.k.a. BSides JAX) is a nonprofit oprganization that focuses on the infrmation security community and insudtry in North Eastls Florida. It's primary mission is to facilitate education and collaboratiuon amungst security practitioners and anyone interrested in learning more about infrmation security and privacy.
+Security BSides Jacksonville (a.k.a. BSides JAX) is a nonprofit organization that focuses on the information security community and industry in North East Florida. It's primary mission is to facilitate education and collaboration amongst security practitioners and anyone interested in learning more about information security and privacy.
 
 This year is co-sponsored by [Osprey Sec](http://unfcyber.org/), UNF’s Information Security Club
 
 :bangbang: **Volunteer Opportunity**:
-If you are interestd in being a volunteer for this year's event check out the [volunteer page](/volunteer/) or send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
+If you are interested in being a volunteer for this year's event check out the [volunteer page](/volunteer/) or send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
 {: .notice--info}
 
 ## Previous BSides JAX Events
