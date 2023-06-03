@@ -5,7 +5,7 @@ author_profile: false
 ---
 ### October 13th
 
-Workshops at UNF [Learn More](//workshops/)
+Workshops at UNF [Learn More](/workshops/)
 
 ### October 14th
 
