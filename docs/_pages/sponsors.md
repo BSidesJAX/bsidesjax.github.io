@@ -30,4 +30,4 @@ Interested in being a sponsor for this year's event check out the [Sponsor Kit](
 | After Party | TBD |
 
 ### Sponsorship Contract
-Please see our sponsorship contract: [Sponsor Contract](/assets/files/BSides Jax 2023 Sponsorship Contract-1.pdf)
+Please see our sponsorship contract: [Sponsor Contract](/assets/files/BSides_Jax_2023_Sponsorship_Contract-1.pdf)
