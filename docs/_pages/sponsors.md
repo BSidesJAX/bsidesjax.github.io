@@ -12,7 +12,7 @@ Interested in being a sponsor for this year's event check out the [Sponsor Kit](
 
 | Level       | Sponsors |
 | ----------- | -------- |
-| Platinum    | TBD      |
+| Platinum    | Secure Ideas      |
 | Gold        | TBD      |
 | Silver      | TBD      |
 | Bronze      | TBD      |
