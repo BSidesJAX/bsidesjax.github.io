@@ -7,8 +7,8 @@ main:
   #  url: /posts/
   - title: "Schedule"
     url: /schedule/
-  #- title: "Workshops"
-  #  url: /workshops/
+  - title: "Workshops"
+    url: /workshops/
   - title: "CTF"
     url: /ctf/
   - title: "Sponsors"
