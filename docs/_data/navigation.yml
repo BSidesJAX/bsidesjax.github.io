@@ -1,14 +1,8 @@
 main:
   - title: "Home"
     url: /
-  #- title: "Volunteers"
-  #  url: /volunteer/
-  #- title: "Posts"
-  #  url: /posts/
   - title: "Schedule"
     url: /schedule/
-  #- title: "Workshops"
-  #  url: /workshops/
   - title: "CTF"
     url: /ctf/
   - title: "Sponsors"
