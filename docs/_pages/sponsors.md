@@ -12,7 +12,7 @@ Interested in being a sponsor for this year's event check out the [Sponsor Kit](
 
 | Level       | Sponsors |
 | ----------- | -------- |
-| Platinum    | Secure Ideas      |
+| Platinum    | Secure Ideas    Trace3  |
 | Gold        | TBD      |
 | Silver      | TBD      |
 | Bronze      | TBD      |
@@ -22,11 +22,11 @@ Interested in being a sponsor for this year's event check out the [Sponsor Kit](
 | Event       | Sponsors |
 | ----------- | -------- |
 | Beverages | TBD |
-| Capture The Flag (CTF) | TBD |
+| Capture The Flag (CTF) | Availity LLC |
 | Lock Pick Village (LPV) | TBD |
 | Badges | TBD |
 | Lanyards | TBD |
-| T-Shirts | TBD |
+| T-Shirts | SentinelOne |
 | After Party | TBD |
 
 ### Sponsorship Contract
