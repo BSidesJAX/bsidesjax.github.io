@@ -6,5 +6,5 @@ tags:
 author_profile: false
 ---
 
-BSides JAX 2023 will be held on October 13-14 at UNF.
+BSides JAX 2023 will be held on October 14 at UNF.
 
