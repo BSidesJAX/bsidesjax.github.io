@@ -7,7 +7,7 @@ main:
   #  url: /posts/
   - title: "Schedule"
     url: /schedule/
-  - title: "Floor Map"
+  - title: "Floor Plan"
     url: /map/
   #- title: "FAQ"
   #  url: /faq/
