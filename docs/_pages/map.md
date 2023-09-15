@@ -1,6 +1,6 @@
 ---
 permalink: /map/
-title: "Event Floor Map"
+title: "Event Floor Plan"
 author_profile: false
 ---
 
