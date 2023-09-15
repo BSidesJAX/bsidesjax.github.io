@@ -9,8 +9,8 @@ main:
     url: /schedule/
   - title: "Floor Plan"
     url: /map/
-  #- title: "FAQ"
-  #  url: /faq/
+  - title: "FAQ"
+    url: /faq/
   - title: "CTF"
     url: /ctf/
   - title: "Sponsors"
