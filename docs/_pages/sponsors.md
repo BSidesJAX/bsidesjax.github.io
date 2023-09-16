@@ -15,7 +15,7 @@ author_profile: false
   <a href="https://www.trace3.com/" target="_blank">
   <img src="/assets/images/sponsor-t3-logo.png"></a>
 
-  <a href="https://www.guidepoint.com/" target="_blank">
+  <a href="https://www.guidepointsecurity.com/" target="_blank">
   <img src="/assets/images/sponsor-gp-logo.png"></a>
 
   <a href="https://www.varonis.com/" target="_blank">
