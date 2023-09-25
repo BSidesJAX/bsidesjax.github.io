@@ -4,7 +4,8 @@ title: "Schedule - October 14th 2023"
 author_profile: false
 ---
 
-All Talks and Events at [UNF University Center](https://www.unf.edu/universitycenter/directions.html)
+All Talks and Events at UNF University Center<br>
+[12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)
 
 | Time            | Track 1  | Track 2                                     | Track 3 |
 | --------------- | -------- | ------------------------------------------- | --------|
