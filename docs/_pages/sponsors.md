@@ -8,10 +8,10 @@ author_profile: false
 <figcaption>Platinum Sponsors</figcaption>
   <a href="https://www.secureideas.com/" target="_blank">
   <img src="/assets/images/sponsor-si-logo.svg"></a>
-<!--// waitingon decision for logo from OSEC
- <a href="https://unfcyber.org/" target="_blank">
-  <img src="/assets/images/sponsor-osec-logo2.png"></a>
-//-->
+
+  <a href="https://unfcyber.org/" target="_blank">
+  <img src="/assets/images/osec_logo_dark.png"></a>
+
   <a href="https://www.trace3.com/" target="_blank">
   <img src="/assets/images/sponsor-t3-logo.png"></a>
 
