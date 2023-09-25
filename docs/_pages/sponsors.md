@@ -23,6 +23,12 @@ author_profile: false
 
   <a href="https://www.truesec.com/" target="_blank">
   <img src="/assets/images/sponsor-ts-logo.png"></a>
+  
+  <a href="https://www.optiv.com" target="_blank">
+  <img src="/assets/images/sponsor-optiv-logo.png"></a>
+
+  <a href="https://www.forcepoint.com/" target="_blank">
+  <img src="/assets/images/sponsor-forcepoint-logo.png"></a>
 </figure>
 
 <figure class="third">
