@@ -10,7 +10,7 @@ author_profile: false
   <img src="/assets/images/sponsor-si-logo.svg"></a>
 
   <a href="https://unfcyber.org/" target="_blank">
-  <img src="/assets/images/osec_logo_dark.png"></a>
+    <img src="/assets/images/OSECLongColor.png"></a>
 
   <a href="https://www.trace3.com/" target="_blank">
   <img src="/assets/images/sponsor-t3-logo.png"></a>
