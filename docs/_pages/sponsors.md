@@ -2,6 +2,7 @@
 permalink: /sponsors/
 title: "2023 Sponsors"
 author_profile: false
+classes: wide
 ---
 
 <figure class="third">
