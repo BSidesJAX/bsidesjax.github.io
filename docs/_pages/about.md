@@ -8,10 +8,11 @@ Security BSides Jacksonville (a.k.a. BSides JAX) is an organization that focuses
 
 This year is co-sponsored by [Osprey Sec](http://unfcyber.org/), UNF’s Information Security Club
 
+<!-- //START//
 :bangbang: **Volunteer Opportunity**:
 If you are interested in being a volunteer for this year's event check out the [volunteer page](/volunteer/) or send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
 {: .notice--info}
-
+//END// -->
 ## Previous BSides JAX Events
 
 | Year | Event Summary |
