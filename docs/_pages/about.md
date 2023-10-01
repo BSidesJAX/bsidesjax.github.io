@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 author_profile: false
+classes: wide
 ---
 
 Security BSides Jacksonville (a.k.a. BSides JAX) is an organization that focuses on the information security community and industry in North East Florida. It's primary mission is to facilitate education and collaboration amongst security practitioners and anyone interested in learning more about information security and privacy.
