@@ -12,7 +12,7 @@ main:
   - title: "FAQ"
     url: /faq/
   - title: "CTF"
-    url: /ctf/
+    url: "https://bsidesjax2023.ctfd.io/"
   - title: "Sponsors"
     url: /sponsors/
   - title: "About"
