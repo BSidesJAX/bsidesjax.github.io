@@ -42,7 +42,7 @@ author_profile: false
   <a href="https://www.availity.com/" target="_blank">
   <img src="/assets/images/sponsor-av-logo.png"></a>
 
- <a href="#" target="_blank">
+  <a href="https://strawhacks.github.io/" target="_blank">
   <img src="/assets/images/sponsor-sh-logo.png"></a>
 </figure>
 
