@@ -40,4 +40,4 @@ Here are some extended definitions with additional resources:
 
 #### 6. Are there any discounts availble for tickets?
 
-Yes, Veterans, Volunteers, and Students are leigible for complimentary tickets. Please contact the event staff at [info@bsidesjax.org](mailto:info@bsidesjax.org)
+Yes, Veterans, Volunteers, and Students are eligible for complimentary tickets. Please contact the event staff at [info@bsidesjax.org](mailto:info@bsidesjax.org)
