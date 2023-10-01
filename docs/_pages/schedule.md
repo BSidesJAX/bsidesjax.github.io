@@ -2,6 +2,7 @@
 permalink: /schedule/
 title: "Schedule - October 14th 2023"
 author_profile: false
+classes: wide
 ---
 
 All Talks and Events at UNF University Center<br>
