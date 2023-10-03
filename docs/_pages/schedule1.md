@@ -2,6 +2,7 @@
 permalink: /schedule1/
 title: "Schedule - October 14th 2023"
 author_profile: false
+layout: home
 classes: wide
 ---
 
@@ -21,11 +22,11 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
     </tr>
     <tr>
         <td>08:30 - 09:00</td>
-        <td colspan="3">Opening Ceremonies</td>
+        <td colspan="3" style='text-align:center; vertical-align:middle'>Opening Ceremonies</td>
     </tr>
     <tr>
         <td>09:00 - 10:00</td>
-        <td colspan="3">Keynote: Kevin Johnson, CEO of Secure Ideas</td>
+        <td colspan="3" style='text-align:center; vertical-align:middle'>Keynote: Kevin Johnson, CEO of Secure Ideas</td>
     </tr>
     <tr>
         <td>10:00 - 11:00</td>
@@ -41,7 +42,7 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
     </tr>
     <tr>
         <td>12:00 - 13:00</td>
-        <td colspan="3">Lunch</td>
+        <td colspan="3" style='text-align:center; vertical-align:middle'>Lunch</td>
     </tr>
     <tr>
         <td>13:00 - 14:00</td>
@@ -63,7 +64,7 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
     </tr>
     <tr>
         <td>16:00 - 16:30</td>
-        <td colspan="3">Closing Ceremonies</td>
+        <td colspan="3" style='text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
 {:/}
