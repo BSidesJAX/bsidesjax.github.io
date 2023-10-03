@@ -11,10 +11,10 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
 {::nomarkdown} 
 <table>
     <tr>
-        <th>Time Block</th>
-        <th>Track 1</th>
-        <th>Track 2</th>
-        <th>Track 3</th>
+        <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Time</th>
+        <th style='text-align:center; vertical-align:middle'>Track 1</th>
+        <th style='text-align:center; vertical-align:middle'>Track 2</th>
+        <th style='text-align:center; vertical-align:middle'>Track 3</th>
     </tr>
     <tr>
         <td>08:00 - 08:30</td>
