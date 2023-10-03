@@ -2,7 +2,7 @@
 permalink: /schedule1/
 title: "Schedule - October 14th 2023"
 author_profile: false
-layout: home
+layout: splash
 classes: wide
 ---
 
