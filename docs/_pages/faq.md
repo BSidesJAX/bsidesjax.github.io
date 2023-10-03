@@ -42,3 +42,7 @@ Here are some extended definitions with additional resources:
 #### 6. Are there any discounts availble for tickets?
 
 Yes, Veterans, Volunteers, and Students are eligible for complimentary tickets. Please contact the event staff at [info@bsidesjax.org](mailto:info@bsidesjax.org)
+
+#### 7. Where can I get the code to register for the CTF?
+
+When you join the [BSidesJAX Discord](https://discord.gg/rcGFSgyKdY) you can find the registration code pinned in the '#ctf-general-chat' channel.
