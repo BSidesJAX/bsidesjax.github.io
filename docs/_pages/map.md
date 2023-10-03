@@ -2,6 +2,7 @@
 permalink: /map/
 title: "Event Floor Plan"
 author_profile: false
+layout: splash
 classes: wide
 ---
 

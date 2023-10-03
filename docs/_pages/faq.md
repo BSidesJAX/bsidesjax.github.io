@@ -2,6 +2,7 @@
 permalink: /faq/
 title: "Frequently Asked Questions"
 author_profile: false
+layout: splash
 toc: true
 toc_label: "FAQ" # default: Content
 toc_icon: "question-circle"  # corresponding Font Awesome icon without the "fa" prefix
