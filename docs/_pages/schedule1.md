@@ -12,21 +12,21 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
 <table>
     <tr>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Time</th>
-        <th style='text-align:center; vertical-align:middle'>Track 1</th>
-        <th style='text-align:center; vertical-align:middle'>Track 2</th>
-        <th style='text-align:center; vertical-align:middle'>Track 3</th>
+        <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Track 1</th>
+        <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Track 2</th>
+        <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Track 3</th>
     </tr>
     <tr>
         <td>08:00 - 08:30</td>
-        <td colspan="3" style='text-align:center; vertical-align:middle'>Registration</td>
+        <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Registration</td>
     </tr>
     <tr>
         <td>08:30 - 09:00</td>
-        <td colspan="3" style='text-align:center; vertical-align:middle'>Opening Ceremonies</td>
+        <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Opening Ceremonies</td>
     </tr>
     <tr>
         <td>09:00 - 10:00</td>
-        <td colspan="3" style='text-align:center; vertical-align:middle'>Keynote: Kevin Johnson, CEO of Secure Ideas</td>
+        <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: Kevin Johnson, CEO of Secure Ideas</td>
     </tr>
     <tr>
         <td>10:00 - 11:00</td>
@@ -42,7 +42,7 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
     </tr>
     <tr>
         <td>12:00 - 13:00</td>
-        <td colspan="3" style='text-align:center; vertical-align:middle'>Lunch</td>
+        <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Lunch</td>
     </tr>
     <tr>
         <td>13:00 - 14:00</td>
@@ -64,7 +64,7 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
     </tr>
     <tr>
         <td>16:00 - 16:30</td>
-        <td colspan="3" style='text-align:center; vertical-align:middle'>Closing Ceremonies</td>
+        <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
 {:/}
