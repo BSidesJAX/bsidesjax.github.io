@@ -17,7 +17,7 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
     </tr>
     <tr>
         <td>08:00 - 08:30</td>
-        <td colspan="3">Registration</td>
+        <td colspan="3" style='text-align:center; vertical-align:middle'>Registration</td>
     </tr>
     <tr>
         <td>08:30 - 09:00</td>
