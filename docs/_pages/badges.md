@@ -5,4 +5,5 @@ author_profile: false
 ---
 ### Badge details
 
-This year will feature electronic badges that you can solder together yourself. Check back here for detailed instructions.
+Check here for the badge instructions!
+https://github.com/blackandwhitehat/BSidesJAX_2023_Badge
