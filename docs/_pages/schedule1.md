@@ -35,16 +35,16 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>10:00-11:00</td>
-        <td>Craig Galley: Malware Analysis - Presentation w/Demos</td>
-        <td>Gina Yacone: The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</td>
-        <td>Steve Wingate: Using Deception to Improve Security</td>
-        <td rowspan="6" style="border-style:solid; border-width:thin;">Capture&nbsp;The&nbsp;Flag <br> Red vs. Blue <br> Lockpick Village <br> Soldering Village </td>
+        <td>Malware Analysis - Presentation w/Demos<br>Craig Galley</td>
+        <td>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI<br>Gina Yacone</td>
+        <td>Using Deception to Improve Security<br>Steve Wingate</td>
+        <td rowspan="6" style="border-style:solid; border-width:thin;">Capture&nbsp;The&nbsp;Flag<br><br>Red&nbsp;vs.&nbsp;Blue<br><br>Lockpick&nbsp;Village<br><br>Soldering&nbsp;Village</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>11:00-12:00</td>
         <td style='text-align:center; vertical-align:middle'>CISO Panel</td>
-        <td>Johannes Ullrich: Supply Chain Security</td>
-        <td>Ed Spencer: A Revisit of How to Land Your First Infosec Job</td>
+        <td>Supply Chain Security<br>Johannes Ullrich</td>
+        <td>A Revisit of How to Land Your First Infosec Job<br>Ed Spencer</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>12:00-13:00</td>
@@ -52,21 +52,20 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>13:00-14:00</td>
-        <td style='text-align:center; vertical-align:middle'>Women in Tech Panel: Navigating the cyber security field</td>
-        <td>Dale Rodriguez: Mystified by the alphabet soup of cloud native security?</td>
-        <td>Nathan Nye: Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security</td>
+        <td style='text-align:center; vertical-align:middle'>Women in Tech Panel:<br>Navigating the cyber security field</td>
+        <td>Mystified by the alphabet soup of cloud native security?<br>Dale Rodriguez</td>
+        <td>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security<br>Nathan Nye</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>14:00-15:00</td>
-        <td>Mikkel Ole Romer: Mikkel Ole Romer: Infiltrating modern organizations using Supply Chain Attacks</td>
-        <td>Surfer Dave: Manipulation, Deception, and Coercion: Why SE Tactics Work</td>
-        <td style='text-align:center; vertical-align:middle'>Closed</td>
+        <td>Infiltrating modern organizations using Supply Chain Attacks<br>Mikkel Ole Romer</td>
+        <td>Manipulation, Deception, and Coercion: Why SE Tactics Work<br>Surfer Dave</td>
+        <td rowspan="2" style='border-style:solid; border-width:thin;text-align:center; vertical-align:middle'>Closed</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>15:00-16:00</td>
-        <td>Carlos Rodriguez: Intersection of Incident Response, Disaster Recovery and Crisis Management</td>
-        <td>Taryn Swietek: Taryn Swietek: Unmasking the hackers, battling imposter syndrome</td>
-        <td style='text-align:center; vertical-align:middle'>Closed</td>
+        <td>Intersection of Incident Response, Disaster Recovery and Crisis Management<br>Carlos Rodriguez</td>
+        <td>Unmasking the hackers, battling imposter syndrome<br>Taryn Swietek</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>16:00-16:30</td>
