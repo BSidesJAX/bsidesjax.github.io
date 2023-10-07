@@ -53,19 +53,19 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>13:00-14:00</td>
         <td style='text-align:center; vertical-align:middle'>Women in Tech Panel:<br>Navigating the cyber security field</td>
-        <td>Mystified by the alphabet soup of cloud native security?<br>Dale Rodriguez</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Mystified by the alphabet soup of cloud native security?<br>Dale Rodriguez</td>
         <td>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security<br>Nathan Nye</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>14:00-15:00</td>
         <td>Infiltrating modern organizations using Supply Chain Attacks<br>Mikkel Ole Romer</td>
-        <td>Manipulation, Deception, and Coercion: Why SE Tactics Work<br>Surfer Dave</td>
-        <td rowspan="2" style='border-left-style:solid; border-width:thin;text-align:center; vertical-align:middle'>Closed</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Manipulation, Deception, and Coercion: Why SE Tactics Work<br>Surfer Dave</td>
+        <td rowspan="2" style='text-align:center; vertical-align:middle'>Closed</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>15:00-16:00</td>
         <td>Intersection of Incident Response, Disaster Recovery and Crisis Management<br>Carlos Rodriguez</td>
-        <td>Unmasking the hackers, battling imposter syndrome<br>Taryn Swietek</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Unmasking the hackers, battling imposter syndrome<br>Taryn Swietek</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>16:00-16:30</td>
