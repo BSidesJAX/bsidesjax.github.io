@@ -35,16 +35,16 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>10:00-11:00</td>
-        <td>Malware Analysis - Presentation w/Demos<br>Craig Galley</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI<br>Gina Yacone</td>
-        <td>Using Deception to Improve Security<br>Steve Wingate</td>
+        <td>Malware Analysis - Presentation w/Demos<br><br>Craig Galley</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI<br><br>Gina Yacone</td>
+        <td>Using Deception to Improve Security<br><br>Steve Wingate</td>
         <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>Capture&nbsp;The&nbsp;Flag<br><br>Red&nbsp;vs.&nbsp;Blue<br><br>Lockpick&nbsp;Village<br><br>Soldering&nbsp;Village</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>11:00-12:00</td>
         <td style='text-align:center; vertical-align:middle'>CISO Panel</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Supply Chain Security<br>Johannes Ullrich</td>
-        <td>A Revisit of How to Land Your First Infosec Job<br>Ed Spencer</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Supply Chain Security<br><br>Johannes Ullrich</td>
+        <td>A Revisit of How to Land Your First Infosec Job<br><br>Ed Spencer</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>12:00-13:00</td>
@@ -52,20 +52,20 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>13:00-14:00</td>
-        <td style='text-align:center; vertical-align:middle'>Women in Tech Panel:<br>Navigating the cyber security field</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Mystified by the alphabet soup of cloud native security?<br>Dale Rodriguez</td>
-        <td>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security<br>Nathan Nye</td>
+        <td style='text-align:center; vertical-align:middle'>Jacksonville Women in Technology<br>Panel Discussion:<br>Navigating the cyber security field</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Mystified by the alphabet soup of cloud native security?<br><br>Dale Rodriguez</td>
+        <td>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security<br><br>Nathan Nye</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>14:00-15:00</td>
-        <td>Infiltrating modern organizations using Supply Chain Attacks<br>Mikkel Ole Romer</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Manipulation, Deception, and Coercion: Why SE Tactics Work<br>Surfer Dave</td>
+        <td>Infiltrating modern organizations using Supply Chain Attacks<br><br>Mikkel Ole Romer</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Manipulation, Deception, and Coercion: Why SE Tactics Work<br><br>Surfer Dave</td>
         <td rowspan="2" style='text-align:center; vertical-align:middle'>Closed</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>15:00-16:00</td>
-        <td>Intersection of Incident Response, Disaster Recovery and Crisis Management<br>Carlos Rodriguez</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Unmasking the hackers, battling imposter syndrome<br>Taryn Swietek</td>
+        <td>Intersection of Incident Response, Disaster Recovery and Crisis Management<br><br>Carlos Rodriguez</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Unmasking the hackers, battling imposter syndrome<br><br>Taryn Swietek</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>16:00-16:30</td>
