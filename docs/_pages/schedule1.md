@@ -32,13 +32,13 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
         <td style='background-color:#D5D8DC;'>10:00 - 11:00</td>
         <td>Craig Galley: Malware Analysis - Presentation w/Demos</td>
         <td>Gina Yacone: The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</td>
-        <td>Steve Wingate: TBD</td>
+        <td>Steve Wingate: Using Deception to Improve Security</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC;'>11:00 - 12:00</td>
-        <td>CISO Panel</td>
+        <td style='text-align:center; vertical-align:middle'>CISO Panel</td>
         <td>Johannes Ullrich: Supply Chain Security</td>
-        <td>Ed Spencer:  A Revisit of How to Land Your First Infosec Job</td>
+        <td>Ed Spencer: A Revisit of How to Land Your First Infosec Job</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC;'>12:00 - 13:00</td>
@@ -46,21 +46,21 @@ All Talks and Events at UNF University Center, [12000 Alumni Drive, Jacksonville
     </tr>
     <tr>
         <td style='background-color:#D5D8DC;'>13:00 - 14:00</td>
-        <td>Women in Tech Panel</td>
+        <td style='text-align:center; vertical-align:middle'>Women in Tech Panel: Navigating the cyber security field</td>
         <td>Dale Rodriguez: Mystified by the alphabet soup of cloud native security?</td>
         <td>Nathan Nye: Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC;'>14:00 - 15:00</td>
-        <td>Mikkel Ole Romer: TBD</td>
+        <td>Mikkel Ole Romer: Mikkel Ole Romer: Infiltrating modern organizations using Supply Chain Attacks</td>
         <td>Surfer Dave: Manipulation, Deception, and Coercion: Why SE Tactics Work</td>
-        <td>Closed</td>
+        <td style='text-align:center; vertical-align:middle'>>Closed</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC;'>15:00 - 16:00</td>
         <td>Carlos Rodriguez: Intersection of Incident Response, Disaster Recovery and Crisis Management</td>
-        <td>Taryn Swietek: TBD</td>
-        <td>Closed</td>
+        <td>Taryn Swietek: Taryn Swietek: Unmasking the hackers, battling imposter syndrome</td>
+        <td style='text-align:center; vertical-align:middle'>>Closed</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC;'>16:00 - 16:30</td>
