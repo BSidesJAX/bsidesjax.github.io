@@ -36,14 +36,14 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>10:00-11:00</td>
         <td>Malware Analysis - Presentation w/Demos<br>Craig Galley</td>
-        <td style='border-right-style:dotted; border-left-style:dotted;'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI<br>Gina Yacone</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI<br>Gina Yacone</td>
         <td>Using Deception to Improve Security<br>Steve Wingate</td>
-        <td rowspan="6" style="border-left-style:solid; border-width:thin;">Capture&nbsp;The&nbsp;Flag<br><br>Red&nbsp;vs.&nbsp;Blue<br><br>Lockpick&nbsp;Village<br><br>Soldering&nbsp;Village</td>
+        <td rowspan="6" style='border-left-style:solid; border-width:thin;'>Capture&nbsp;The&nbsp;Flag<br><br>Red&nbsp;vs.&nbsp;Blue<br><br>Lockpick&nbsp;Village<br><br>Soldering&nbsp;Village</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>11:00-12:00</td>
         <td style='text-align:center; vertical-align:middle'>CISO Panel</td>
-        <td style='border-right-style:dotted; border-left-style:dotted;'>Supply Chain Security<br>Johannes Ullrich</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Supply Chain Security<br>Johannes Ullrich</td>
         <td>A Revisit of How to Land Your First Infosec Job<br>Ed Spencer</td>
     </tr>
     <tr>
