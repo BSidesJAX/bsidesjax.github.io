@@ -13,7 +13,7 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
 {: .notice--info}
 
 {::nomarkdown} 
-<table style="border-style:solid;">
+<table style="border-style:solid; border-width:thin;">
     <tr>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Time</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Track 1</th>
@@ -38,7 +38,7 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
         <td>Craig Galley: Malware Analysis - Presentation w/Demos</td>
         <td>Gina Yacone: The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</td>
         <td>Steve Wingate: Using Deception to Improve Security</td>
-        <td rowspan="6">Capture The Flage <br> Red vs. Blue <br> Lockpick Village <br> Soldering Village </td>
+        <td rowspan="6" style="border-style:solid; border-width:thin;">Capture The Flage <br> Red vs. Blue <br> Lockpick Village <br> Soldering Village </td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700;'>11:00-12:00</td>
