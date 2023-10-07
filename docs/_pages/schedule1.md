@@ -25,49 +25,49 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
         <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Registration</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>08:30 - 09:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>08:30-09:00</td>
         <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Opening Ceremonies</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>09:00 - 10:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>09:00-10:00</td>
         <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: Kevin Johnson, CEO of Secure Ideas</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>10:00 - 11:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>10:00-11:00</td>
         <td>Craig Galley: Malware Analysis - Presentation w/Demos</td>
         <td>Gina Yacone: The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</td>
         <td>Steve Wingate: Using Deception to Improve Security</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>11:00 - 12:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>11:00-12:00</td>
         <td style='text-align:center; vertical-align:middle'>CISO Panel</td>
         <td>Johannes Ullrich: Supply Chain Security</td>
         <td>Ed Spencer: A Revisit of How to Land Your First Infosec Job</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>12:00 - 13:00</td>
+        <td style='background-color:#D5D8DC;'> font-weight:700;12:00-13:00</td>
         <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Lunch</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>13:00 - 14:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>13:00-14:00</td>
         <td style='text-align:center; vertical-align:middle'>Women in Tech Panel: Navigating the cyber security field</td>
         <td>Dale Rodriguez: Mystified by the alphabet soup of cloud native security?</td>
         <td>Nathan Nye: Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>14:00 - 15:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>14:00-15:00</td>
         <td>Mikkel Ole Romer: Mikkel Ole Romer: Infiltrating modern organizations using Supply Chain Attacks</td>
         <td>Surfer Dave: Manipulation, Deception, and Coercion: Why SE Tactics Work</td>
         <td style='text-align:center; vertical-align:middle'>>Closed</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>15:00 - 16:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>15:00-16:00</td>
         <td>Carlos Rodriguez: Intersection of Incident Response, Disaster Recovery and Crisis Management</td>
         <td>Taryn Swietek: Taryn Swietek: Unmasking the hackers, battling imposter syndrome</td>
         <td style='text-align:center; vertical-align:middle'>>Closed</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC;'>16:00 - 16:30</td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>16:00-16:30</td>
         <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
