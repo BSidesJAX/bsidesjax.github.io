@@ -73,16 +73,17 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
 </table>
 <br>
+## Talks
 <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
-        <td>talk title</td>
-        <td>time<td>
+        <td style='background-color:#D5D8DC; font-weight:700;'>talk title</td>
+        <td style='background-color:#D5D8DC; font-weight:700; text-align:right;'>time<td>
     </tr>
     <tr>
         <td colspan="2">abstract</td>
     </tr>
     <tr>
-        <td colspan="2">Speaker</td>
+        <td colspan="2" style='background-color:#F2F3F4; text-align:left;'>Speaker</td>
     </tr>
 </table>
 
