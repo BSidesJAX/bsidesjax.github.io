@@ -19,26 +19,27 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Track 1</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Track 2</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Track 3</th>
-        <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Events</th>
+        <th colspan="2" style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Events</th>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>08:00-08:30</td>
-        <td colspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Registration</td>
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Registration</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>08:30-09:00</td>
-        <td colspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Opening Ceremonies</td>
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Opening Ceremonies</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:00-10:00</td>
-        <td colspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: Kevin Johnson, CEO of Secure Ideas</td>
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: Kevin Johnson, CEO of Secure Ideas</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:00-11:00</td>
         <td>Malware Analysis - Presentation w/Demos<br><br>Craig Galley</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI<br><br>Gina Yacone</td>
         <td>Using Deception to Improve Security<br><br>Steve Wingate</td>
-        <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>Capture&nbsp;The&nbsp;Flag<br><br>Red&nbsp;vs.&nbsp;Blue<br><br>Lockpick&nbsp;Village<br><br>Soldering&nbsp;Village</td>
+        <td rowspan="4" style='border-left-style:dotted; border-width:thin;'>Soldering&nbsp;Village</td>
+        <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>Capture&nbsp;The&nbsp;Flag<br><br>Red&nbsp;vs.&nbsp;Blue<br><br>Lockpick&nbsp;Village<br></td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:00-12:00</td>
@@ -60,7 +61,7 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:00-15:00</td>
         <td>Infiltrating modern organizations using Supply Chain Attacks<br><br>Mikkel Ole Romer</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Manipulation, Deception, and Coercion: Why SE Tactics Work<br><br>Surfer Dave</td>
-        <td rowspan="2" style='text-align:center; vertical-align:middle'>Closed</td>
+        <td rowspan="2" colspan="2" style='text-align:center; vertical-align:middle'>Closed</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:00-16:00</td>
@@ -69,7 +70,8 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-16:30</td>
-        <td colspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
+<br>
 {:/}
