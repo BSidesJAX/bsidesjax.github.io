@@ -72,4 +72,18 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
         <td colspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
+<br>
+<table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
+    <tr>
+        <td>talk title</td>
+        <td>time<td>
+    </tr>
+    <tr>
+        <td colspan="2">abstract</td>
+    </tr>
+    <tr>
+        <td colspan="2">Speaker</td>
+    </tr>
+</table>
+
 {:/}
