@@ -73,17 +73,13 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
 </table>
 <br>
-## Talks
+<h2>Talks</h2>
 <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
-    <tr>
-        <td style='background-color:#D5D8DC; font-weight:700;'>talk title</td>
-        <td style='background-color:#D5D8DC; font-weight:700; text-align:right;'>time<td>
+    <tr >
+        <td style='background-color:#F2F3F4; font-weight:700;'>A Revisit of How to Land Your First Infosec Job</td>
     </tr>
     <tr>
-        <td colspan="2">abstract</td>
-    </tr>
-    <tr>
-        <td colspan="2" style='background-color:#F2F3F4; text-align:left;'>Speaker</td>
+        <td> - Ed Spencer</td>
     </tr>
 </table>
 
