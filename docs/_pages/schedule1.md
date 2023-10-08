@@ -13,7 +13,7 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
 {: .notice--info}
 
 {::nomarkdown} 
-<table style="border-style:dotted; border-width:thin; border-radius: 8px;">
+<table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Time</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Track 1</th>
