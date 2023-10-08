@@ -42,7 +42,7 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:00-12:00</td>
-        <td style='text-align:center; vertical-align:middle'>CISO Panel</td>
+        <td style='text-align:center; vertical-align:middle'><a href='#T2'>CISO Panel<a></td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Supply Chain Security<br><br>Johannes Ullrich</td>
         <td><a href='#T1'>A Revisit of How to Land Your First Infosec Job</a><br><br>Ed Spencer</td>
     </tr>
@@ -74,12 +74,18 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
 </table>
 
 <h2>Talks</h2>
-<table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
+<table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
         <td style='width:100%; background-color:#F2F3F4; font-weight:700;' id='T1'>A Revisit of How to Land Your First Infosec Job</td>
     </tr>
     <tr>
         <td>Speaker: Ed Spencer</td>
+    </tr>
+    <tr>
+        <td style='width:100%; background-color:#F2F3F4; font-weight:700;' id='T2'>CISO Panel</td>
+    </tr>
+    <tr>
+        <td>Moderator: Matthew Parks</td>
     </tr>
 </table>
 
