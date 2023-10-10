@@ -11,8 +11,6 @@ toc_icon: "raygun"
 
 BSidesJAX coordinators will do their best to ensure volunteers are in their preferred role, and put in a position they are comfortable with. In exchange we ask that if you show up on time for the roles you have selected/assigned to, and if you are unable to do so, to contact the volunteer coordinator at the earliest opportunity. All volunteers (like participants) are expected to abide by the code of conduct, and should be able to answer general questions from attendees, or refer them to a member volunteer coordinator/organizer.
 
-[Volunteer Today!](https://forms.gle/dbuY4cadswvK9ufcA){: .btn .btn--danger}
-
 ## Roles
 
 ### Public Facing
@@ -60,5 +58,3 @@ The floater role is a jack-of-all trades. These volunteers will not be assigned 
 ## Further Questions?
 
 For further questions please reach out to [info@bsidesjax.org](mailto:info@bsidesjax.org) or join our [Discord](https://discord.gg/rcGFSgyKdY) and reach out to SM51#3084.
-
-[Volunteer Today!](https://forms.gle/dbuY4cadswvK9ufcA){: .btn .btn--danger}

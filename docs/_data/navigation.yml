@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  #- title: "Volunteers"
-  #  url: /volunteer/
+  - title: "Volunteers"
+    url: /volunteer/
   #- title: "Posts"
   #  url: /posts/
   - title: "Schedule"
