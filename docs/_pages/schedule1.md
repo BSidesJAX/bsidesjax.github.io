@@ -74,21 +74,101 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
 </table>
 <br>
-
-<h2>Talks</h2>
-
+<h2>Keynote</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>A Revisit of How to Land Your First Infosec Job</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='K1'>Guardians of Reality: Countering Hype in InfoSec</td>
     </tr>
     <tr>
-        <td>Speaker: Ed Spencer</td>
+        <td>
+            <p>In an era where attention-grabbing headlines and flashy marketing campaigns dominate the landscape, InfoSec finds itself at a crossroads. Kevin Johnson of Secure Ideas will dive deep into the prevailing trend that is steering the industry away from its core mission - to ensure cybersecurity and protect sensitive data.</p>
+            <p>In an age where clicks and views reign supreme, the industry has been seduced by the allure of quick attention, leaving genuine security concerns languishing in the shadows. This keynote will shine a spotlight on the pressing issue of marketing-driven sensationalism that overshadows the pressing need for substantive solutions.</p>
+            <p>From the smoke and mirrors surrounding "automated penetration testing" to the proliferation of AI-powered miracle solutions, we will dissect the myths and unveil the truths. Our journey will underscore the fact that genuine penetration testing requires the human touch, the artistry of experts who understand the intricacies of security challenges and the dynamic nature of cyber threats.</p>
+            <p>As Guardians of Reality, we'll explore strategies to realign the industry's focus with its fundamental mission. We'll navigate through the storm of misinformation, tackling head-on the dangers of sacrificing genuine security solutions for mere attention. It's time to strip away the veneer of hype and rediscover the essence of InfoSec - protecting our digital world from real-world threats.</p>
+            Speaker: Kevin Johnson
+        </td>
     </tr>
-    <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T2'>CISO Panel</td>
-    </tr>
-    <tr>
-        <td>Moderator: Matthew Parks</td>
-    </tr>
-</table>
+    </table>
+    <h2>Talks</h2>
+    <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>A Revisit of How to Land Your First Infosec Job</td>
+        </tr>
+        <tr>
+            <td>Speaker: Ed Spencer</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T2'>CISO Panel</td>
+        </tr>
+        <tr>
+            <td>Moderator: Matthew Parks</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T3'>Developers DEVELOPERS DEVELOPERS : Three WAYS TO TARGET DEVELOPERS</td>
+        </tr>
+        <tr>
+            <td>Speaker: Johannes Ullrich</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T4'>Infiltrating modern organizations using Supply Chain Attacks</td>
+        </tr>
+        <tr>
+            <td>Speaker:  Mikkel Ole Romer</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T5'>Intersection of Incident Response, Disaster Recovery and Crisis Management</td>
+        </tr>
+        <tr>
+            <td>Speaker: Carlos Rodriguez</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T6'>Jacksonville Women in Technology Panel Discussion: Navigating the cyber security field</td>
+        </tr>
+        <tr>
+            <td>Speaker: TBD</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T7'>Malware Analysis - Presentation w/Demos</td>
+        </tr>
+        <tr>
+            <td>Speaker: Craig Galley</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T8'>Manipulation, Deception, and Coercion: Why SE Tactics Work</td>
+        </tr>
+        <tr>
+            <td>Speaker: Surfer Dave</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T9'>Mystified by the alphabet soup of cloud native security?</td>
+        </tr>
+        <tr>
+            <td>Speaker: Dale Rodriguez</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T10'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</td>
+        </tr>
+        <tr>
+            <td>Speaker: Gina Yacone</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T11'>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security</td>
+        </tr>
+        <tr>
+            <td>Speaker: Nathan Nye</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T12'>Unmasking the hackers, battling imposter syndrome</td>
+        </tr>
+        <tr>
+            <td>Speaker: Taryn Swietek</td>
+        </tr>
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T13'>Using Deception to Improve Security</td>
+        </tr>
+        <tr>
+            <td>Speaker: Steve Wingate</td>
+        </tr>
+    </table>
+
 {:/}
