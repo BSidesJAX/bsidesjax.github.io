@@ -31,7 +31,7 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:00-10:00</td>
-        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: Kevin Johnson, CEO of Secure Ideas</td>
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: Guardians of Reality: Countering Hype in InfoSec<br>Kevin Johnson, CEO of Secure Ideas</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:00-11:00</td>
