@@ -109,7 +109,10 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
             <td style='background-color:#F2F3F4; font-weight:700;' id='T3'>Developers DEVELOPERS DEVELOPERS : Three WAYS TO TARGET DEVELOPERS</td>
         </tr>
         <tr>
-            <td>Speaker: Johannes Ullrich</td>
+            <td>
+                <p>Everybody is talking about supply chain security. But supply chains are more than parts, libraries, and APIs. They include people, and developers, to duct tape the parts into something that vaguely resembles functioning software. While developers often hide in their cubicles or home offices to seek safety in the shadows of large monitors, attackers have found them. They found them in IDA plugin stores, software package repositories, Stackoverflow, and in online gaming communities (even during work hours). Network defenders on the other hand have often ignored developers, not just because they are "weird", but because standard security solutions often interfere with their work and cause them to complain loudly. In this talk, you will learn about some of these attacks, and how to defend against them, and you will also learn some bad jokes about developers.</p>
+                Speaker: Johannes Ullrich
+            </td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T4'>Infiltrating modern organizations using Supply Chain Attacks</td>
@@ -145,7 +148,11 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
             <td style='background-color:#F2F3F4; font-weight:700;' id='T9'>Mystified by the alphabet soup of cloud native security?</td>
         </tr>
         <tr>
-            <td>Speaker: Dale Rodriguez</td>
+            <td>
+                <p>Mystified by the alphabet soup of cloud native security? Perhaps your productivity has been disrupted by the number of new acronyms - CWPP, CSPM, KSPM, and the list goes on.</p>
+                <p>We’ll also look at the people side of things, looking at the personas and teams that are involved in the cloud native application lifecycle. This talk is about education with few tools mentioned.</p>
+                Speaker: Dale Rodriguez
+            </td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T10'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</td>
