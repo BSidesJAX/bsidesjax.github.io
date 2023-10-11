@@ -35,7 +35,7 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:00-11:00</td>
-        <td>Malware Analysis - Presentation w/Demos<br><br>Craig Galley</td>
+        <td><a href="#T7">Malware Analysis - Presentation w/Demos</a><br><br>Craig Galley</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI<br><br>Gina Yacone</td>
         <td>Using Deception to Improve Security<br><br>Steve Wingate</td>
         <td rowspan="4" style='border-left-style:dotted; border-width:thin;'>Soldering&nbsp;Village</td>
@@ -43,8 +43,8 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:00-12:00</td>
-        <td style='text-align:center; vertical-align:middle'>CISO Panel</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Supply Chain Security<br><br>Johannes Ullrich</td>
+        <td style='text-align:center; vertical-align:middle'><a href="#T2">CISO Panel</a></td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T3">Developers DEVELOPERS DEVELOPERS : Three WAYS TO TARGET DEVELOPERS</a><br><br>Johannes Ullrich</td>
         <td><a href="#T1">A Revisit of How to Land Your First Infosec Job<a><br><br>Ed Spencer</td>
     </tr>
     <tr>
@@ -53,19 +53,19 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:00-14:00</td>
-        <td style='text-align:center; vertical-align:middle'>Jacksonville Women in Technology<br>Panel Discussion:<br>Navigating the cyber security field</td>
+        <td style='text-align:center; vertical-align:middle'>Jacksonville Women in Technology<br>Panel Discussion:<br><a href="#T6">Navigating the cyber security field</a></td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Mystified by the alphabet soup of cloud native security?<br><br>Dale Rodriguez</td>
         <td>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security<br><br>Nathan Nye</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:00-15:00</td>
-        <td>Infiltrating modern organizations using Supply Chain Attacks<br><br>Mikkel Ole Romer</td>
+        <td><a href="#T4">Infiltrating modern organizations using Supply Chain Attacks</a><br><br>Mikkel Ole Romer</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Manipulation, Deception, and Coercion: Why SE Tactics Work<br><br>Surfer Dave</td>
         <td rowspan="2" colspan="2" style='text-align:center; vertical-align:middle'>Closed</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:00-16:00</td>
-        <td>Intersection of Incident Response, Disaster Recovery and Crisis Management<br><br>Carlos Rodriguez</td>
+        <td><a href="#T5">Intersection of Incident Response, Disaster Recovery and Crisis Management</a><br><br>Carlos Rodriguez</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Unmasking the hackers, battling imposter syndrome<br><br>Taryn Swietek</td>
     </tr>
     <tr>
