@@ -118,31 +118,41 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
             <td style='background-color:#F2F3F4; font-weight:700;' id='T4'>Infiltrating modern organizations using Supply Chain Attacks</td>
         </tr>
         <tr>
-            <td>Speaker:  Mikkel Ole Romer</td>
+            <td>
+                <p>Within this session we will be deep diving into custom malware development for EDR evasion. We will be walking through modern detections capabilities, built techniques to bypass them, and finally compromise a fully monitored environment using a Supply Chain Compromise. This session will be technical. We will be designing and implementing techniques throughout the presentation until a final malware is ready for deployment. Brace yourself for a thrilling journey through the shadows of the digital realm, where adversaries roam undetected.</p>
+                Speaker:  Mikkel Ole Romer
+            </td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T5'>Intersection of Incident Response, Disaster Recovery and Crisis Management</td>
         </tr>
         <tr>
-            <td>Speaker: Carlos Rodriguez</td>
+            <td>
+                <p>You may have a good Cybersecurity Incident Response Plan, a real-life tested Disaster Recovery Plan, and a Crisis Management Plan. But what happens when one of these events morphs into a bigger enterprise issue? Do your executive team and staff understand these plans’ synergies or when a cyber incident becomes a disaster?
+                    In this session, you will learn when these plans come together and how to coordinate efforts to navigate a catastrophic event and prioritize response and recovery efforts.</p>
+                Speaker: Carlos Rodriguez</td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T6'>Jacksonville Women in Technology Panel Discussion: Navigating the cyber security field</td>
         </tr>
         <tr>
-            <td>Speaker: TBD</td>
+            <td>Moderator: Brandi K</td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T7'>Malware Analysis - Presentation w/Demos</td>
         </tr>
         <tr>
-            <td>Speaker: Craig Galley</td>
+            <td>
+                <p>Static/Dynamic... IDA, Cuckoo... </p>
+                Speaker: Craig Galley</td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T8'>Manipulation, Deception, and Coercion: Why SE Tactics Work</td>
         </tr>
         <tr>
-            <td>Speaker: Surfer Dave</td>
+            <td>
+                <p>Social engineering works because it preys on human vulnerabilities including trust, fear, desire, and lack of knowledge. We will take a look at the historical use of social engineering, discuss why humans trust the way we do, and examine some real work examples and techniques that will make you more effective at testing the weakest link in security: the human.</p>
+                Speaker: Surfer Dave</td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T9'>Mystified by the alphabet soup of cloud native security?</td>
@@ -158,25 +168,37 @@ University of North Florida, University Center: [12000 Alumni Drive, Jacksonvill
             <td style='background-color:#F2F3F4; font-weight:700;' id='T10'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</td>
         </tr>
         <tr>
-            <td>Speaker: Gina Yacone</td>
+            <td>
+                <p>The journey of artificial intelligence has unfolded over several decades, yet the latest developments in generative AI have been remarkably transformative, resulting in groundbreaking progress that has deeply influenced our end-users this year. As such, for those in mid-to-senior security leadership roles, understanding the unique AI challenges in cybersecurity is critical for protecting an organization's assets and data.</p>
+                <p>This talk will help empower security leaders with the necessary knowledge to develop a strategic approach to AI cybersecurity. By recognizing AI's unique challenges, implementing proactive security measures, and promoting continuous improvement, organizations can bolster their systems' robustness and resilience against cyber threats.</p>
+                <p>As AI systems increasingly integrate into daily operations, security leaders must comprehend the challenges and proactively implement strategies that respond to and anticipate cyber threats. This approach will protect the organization's assets and data while building trust with stakeholders and end-users who depend on the systems' robustness and resilience.</p>
+                Speaker: Gina Yacone</td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T11'>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security</td>
         </tr>
         <tr>
-            <td>Speaker: Nathan Nye</td>
+            <td>
+                <p>MIFARE Classic smartcards, with a staggering global footprint of over 1 billion cards and 100 million readers, have been a vital component of modern security infrastructure. Their widespread use has made them a subject of interest for security research. Historically, vulnerabilities within these cards have been exploited using attacks like the Mfkey32 and Nested attacks. Yet, the operational complexity and hardware requirements for these attacks have kept many potential exploiters at bay.</p>
+                <p>This presentation details our significant advancements that reduce the resource requirements for MIFARE Classic attack methodologies. We demonstrate a remarkable memory reduction of over 99.75% and a 2000% increase in attack speed. These advancements allow us to conduct the attack on resource-constrained embedded devices, most notably the Flipper Zero pentesting device. We also touch upon upcoming research developments in other smartcard systems.</p>
+                Speaker: Nathan Nye
+            </td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T12'>Unmasking the hackers, battling imposter syndrome</td>
         </tr>
         <tr>
-            <td>Speaker: Taryn Swietek</td>
+            <td>
+                <p>Explore the impact of Imposter Syndrome in the cybersecurity field in this presentation. Discover strategies to recognize, combat, and overcome feelings of inadequacy, ultimately fostering a supportive cybersecurity culture and unleashing professionals' true potential. </p>
+                Speaker: Taryn Swietek</td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T13'>Using Deception to Improve Security</td>
         </tr>
         <tr>
-            <td>Speaker: Steve Wingate</td>
+            <td>
+                <p>Incorporating deception into your cybersecurity arsenal can provide a proactive and dynamic defense mechanism against today's relentless cyber threats. By understanding the principles, benefits, challenges, and ethical considerations of deception technology, organizations can make informed decisions to bolster their security posture and stay one step ahead of malicious actors.</p>
+                Speaker: Steve Wingate</td>
         </tr>
     </table>
 
