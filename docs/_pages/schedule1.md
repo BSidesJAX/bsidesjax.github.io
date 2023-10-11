@@ -10,7 +10,7 @@ classes: wide
 
 :bangbang: **NOTICE**: All Talks and Events are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: Please check the posted schedule for updtaes. The schedule is subject to change.<br>
-:star: The schedule is available via [HackerTracker](https://hackertracker.app/) on your mobile device.
+:star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device.
 {: .notice--danger}
 
 {::nomarkdown}
