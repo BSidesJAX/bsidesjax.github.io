@@ -8,8 +8,10 @@ classes: wide
 
 # Schedule - October 14th 2023
 
-:bangbang: **All Talks and Events at UNF**:
-University of North Florida, University Center: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)
+:bangbang: **NOTICE**:<br>
+All Talks and Events at UNF, University of North Florida, University Center: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
+This scheudle is subject to change. Please check the posted schedule for updtaes.<br>
+This schedule is aslo availible in [HackerTracker](https://hackertracker.app/) on your mobile device.
 {: .notice--info}
 
 {::nomarkdown}
