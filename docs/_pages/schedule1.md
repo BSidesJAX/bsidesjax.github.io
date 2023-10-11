@@ -9,11 +9,9 @@ classes: wide
 # Schedule - October 14th 2023
 
 :bangbang: **NOTICE**:<br>
-<ul>
-    <li>All Talks and Events are at The University of North Florida, University Center: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)</li>
-    <li>Please check the posted schedule for updtaes. The schedule is subject to change. </li>
-    <li>The schedule is available via [HackerTracker](https://hackertracker.app/) on your mobile device.</li>
-</ul>
+All Talks and Events are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
+Please check the posted schedule for updtaes. The schedule is subject to change.<br>
+The schedule is available via [HackerTracker](https://hackertracker.app/) on your mobile device.
 {: .notice--info}
 
 {::nomarkdown}
@@ -140,7 +138,7 @@ classes: wide
             <td style='background-color:#F2F3F4; font-weight:700;' id='T6'>Jacksonville Women in Technology Panel Discussion: Navigating the cyber security field</td>
         </tr>
         <tr>
-            <td>Moderator: Brandi K</td>
+            <td>Moderator: Mary Cruz</td>
         </tr>
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T7'>Malware Analysis - Presentation w/Demos</td>
