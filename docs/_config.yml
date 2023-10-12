@@ -90,12 +90,12 @@ footer:
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/rcGFSgyKdY"
-    - lable: "Code of Conduct"
-      icon: "fab fa-fw fa-exclamation-triangle"
-      url: /codeoc/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/bsides_jax"
+    - label: "Code of Conduct"
+      icon: "fab fa-fw fa-exclamation-triangle"
+      url: "/codeoc/"      
 
 
 defaults:
