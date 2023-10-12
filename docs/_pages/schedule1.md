@@ -67,7 +67,7 @@ classes: wide
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:00-16:00</td>
         <td><a href="#T5">Intersection of Incident Response, Disaster Recovery and Crisis Management</a><br><br>Carlos Rodriguez</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T12">Unmasking the hackers, battling imposter syndrome<a><br><br>Taryn Swietek</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T12">Unmasking the hackers, battling imposter syndrome</a><br><br>Taryn Swietek</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-16:30</td>
