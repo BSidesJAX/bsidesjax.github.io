@@ -55,19 +55,19 @@ classes: wide
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:00-14:00</td>
         <td style='text-align:center; vertical-align:middle'>Jacksonville Women in Technology<br>Panel Discussion:<br><a href="#T6">Navigating the cyber security field</a></td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Mystified by the alphabet soup of cloud native security?<br><br>Dale Rodriguez</td>
-        <td>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security<br><br>Nathan Nye</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T9">Mystified by the alphabet soup of cloud native security?</a><br><br>Dale Rodriguez</td>
+        <td><a href="#T11">Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security</a><br><br>Nathan Nye</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:00-15:00</td>
         <td><a href="#T4">Infiltrating modern organizations using Supply Chain Attacks</a><br><br>Mikkel Ole Romer</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Manipulation, Deception, and Coercion: Why SE Tactics Work<br><br>Surfer Dave</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Manipulation, Deception, and Coercion: Why SE Tactics Work</a><br><br>Surfer Dave</td>
         <td rowspan="2" colspan="2" style='text-align:center; vertical-align:middle'>Closed</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:00-16:00</td>
         <td><a href="#T5">Intersection of Incident Response, Disaster Recovery and Crisis Management</a><br><br>Carlos Rodriguez</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Unmasking the hackers, battling imposter syndrome<br><br>Taryn Swietek</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T12">Unmasking the hackers, battling imposter syndrome<a><br><br>Taryn Swietek</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-16:30</td>
