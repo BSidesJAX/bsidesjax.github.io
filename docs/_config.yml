@@ -93,6 +93,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/bsides_jax"
+    - lable: "Code of Conduct"
+      icon: "fab fa-fw fa-hand-spock-o"
+      url: "/codeoc/"
 
 defaults:
   # _posts
