@@ -94,7 +94,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/bsides_jax"
     - label: "Code of Conduct"
-      icon: "fab fa-fw fa-exclamation-triangle"
+      icon: "fab fa-fw fa-people-arrows"
       url: "/codeoc/"      
 
 
