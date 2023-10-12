@@ -9,7 +9,7 @@ classes: wide
 # Schedule - October 14th 2023
 
 :bangbang: **NOTICE**: All Talks and Events are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
-:star: Please check the posted schedule for updtaes. The schedule is subject to change.<br>
+:star: Please check the posted schedule for updates. The schedule is subject to change.<br>
 :star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device.
 {: .notice--danger}
 
@@ -37,8 +37,8 @@ classes: wide
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:00-11:00</td>
         <td><a href="#T7">Malware Analysis - Presentation w/Demos</a><br><br>Craig Galley</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI<br><br>Gina Yacone</td>
-        <td>Using Deception to Improve Security<br><br>Steve Wingate</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T10">The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</a><br><br>Gina Yacone</td>
+        <td><a href="#T13">Using Deception to Improve Security</a><br><br>Steve Wingate</td>
         <td rowspan="4" style='border-left-style:dotted; border-width:thin;'>Soldering&nbsp;Village</td>
         <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>Capture&nbsp;The&nbsp;Flag<br><br>Red&nbsp;vs.&nbsp;Blue<br><br>Lockpick&nbsp;Village<br></td>
     </tr>
@@ -46,7 +46,7 @@ classes: wide
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:00-12:00</td>
         <td style='text-align:center; vertical-align:middle'><a href="#T2">CISO Panel</a></td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T3">Developers DEVELOPERS DEVELOPERS : Three WAYS TO TARGET DEVELOPERS</a><br><br>Johannes Ullrich</td>
-        <td><a href="#T1">A Revisit of How to Land Your First Infosec Job<a><br><br>Ed Spencer</td>
+        <td><a href="#T1">A Revisit of How to Land Your First Infosec Job</a><br><br>Ed Spencer</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>12:00-13:00</td>
