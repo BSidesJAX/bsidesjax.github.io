@@ -8,4 +8,4 @@ classes: wide
 
 # Floor Plan
 
-![image-center](/assets/images/UNFmap2.png){: .align-center}
+![image-center](/assets/images/BSidesJax-2023-map-final.png){: .align-center}
