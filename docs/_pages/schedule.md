@@ -61,7 +61,7 @@ classes: wide
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:00-15:00</td>
         <td><a href="#T4">Infiltrating modern organizations using Supply Chain Attacks</a><br><br>Mikkel Ole Romer</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Manipulation, Deception, and Coercion: Why SE Tactics Work</a><br><br>Surfer Dave</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Cyber Security 101: Security Awareness</a><br><br>Jalena Henderson</td>
         <td rowspan="2" colspan="2" style='text-align:center; vertical-align:middle'>Closed</td>
     </tr>
     <tr>
@@ -150,12 +150,12 @@ classes: wide
         </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T8'>Manipulation, Deception, and Coercion: Why SE Tactics Work</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T8'>Cyber Security 101: Security Awareness</td>
     </tr>
     <tr>
         <td>
-            <p>Social engineering works because it preys on human vulnerabilities including trust, fear, desire, and lack of knowledge. We will take a look at the historical use of social engineering, discuss why humans trust the way we do, and examine some real work examples and techniques that will make you more effective at testing the weakest link in security: the human.</p>
-            Speaker: Surfer Dave</td>
+            <p>-</p>
+            Speaker:Jalena Henderson</td>
     </tr>
     <tr>
         <td style='background-color:#F2F3F4; font-weight:700;' id='T9'>Mystified by the alphabet soup of cloud native security?</td>
