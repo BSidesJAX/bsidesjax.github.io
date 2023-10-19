@@ -81,8 +81,8 @@ author:
 
 footer:
   links:
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
+    - label: "X (Formerly Twitter)"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BSidesJAX"
     - label: "FaceBook"
       icon: "fab fa-fw fa-facebook-square"
@@ -94,7 +94,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/bsides_jax"
     - label: "Code of Conduct"
-      icon: "fab fa-circle-info"
+      icon: "fab fa-fw fa-link"
       url: "/codeoc/"      
 
 
