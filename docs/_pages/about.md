@@ -10,14 +10,14 @@ Security BSides Jacksonville (a.k.a. BSides JAX) is an organization that focuses
 This year is co-sponsored by [Osprey Sec](http://unfcyber.org/), UNF’s Information Security Club
 
 :bangbang: **Community Support**:
-BSides JAX is organized by volunteers and relies on funding from [industry sponsors](/sponsors/) and your [donations](https://www.paypal.com/donate/?hosted_button_id=MJZURYB6P464W).
+BSides JAX is organized by volunteers and relies on funding from industry sponsors and your [donations](https://www.paypal.com/donate/?hosted_button_id=MJZURYB6P464W).
 {: .notice--info}
-
 <!-- //START//
 :bangbang: **Volunteer Opportunity**:
 If you are interested in being a volunteer for this year's event check out the [volunteer page](/volunteer/) or send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
 {: .notice--info}
 //END// -->
+
 ## Previous BSides JAX Events
 
 | Year | Event Summary |
@@ -29,7 +29,7 @@ If you are interested in being a volunteer for this year's event check out the [
 | 2018 | Fifth annual B-Sides Jax, held at TIAA Bank Field. |
 | 2019 | Sixth annual B-Sides Jax, held at TIAA Bank Field. |
 | 2020 <br> 2022 |  Events not held due to COVID19 health concerns. |
-| 2023 | Seventh B-Sides Jax, venue moved to UNF’s Adam W. Herbert University Center|
+| [2023](https://www.bsidesjax.org/2023/) | Seventh B-Sides Jax, venue moved to UNF’s Adam W. Herbert University Center|
 
 ## What is Security BSides?
 
