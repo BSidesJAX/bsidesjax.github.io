@@ -1,21 +1,21 @@
 main:
   - title: "Home"
     url: /
-  - title: "Volunteers"
-    url: /volunteer/
+  #- title: "Volunteers"
+  #  url: /volunteer/
   #- title: "Posts"
   #  url: /posts/
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Floor Plan"
-    url: /map/
-  - title: "FAQ"
-    url: /faq/
-  - title: "CTF"
-    url: "https://bsidesjax2023.ctfd.io/"
-  - title: "Badges"
-    url: "https://github.com/blackandwhitehat/BSidesJAX_2023_Badge"
-  - title: "Sponsors"
-    url: /sponsors/
+  #- title: "Schedule"
+  #  url: /schedule/
+  #- title: "Floor Plan"
+  #  url: /map/
+  #- title: "FAQ"
+  #  url: /faq/
+  #- title: "CTF"
+  #  url: "https://bsidesjax2023.ctfd.io/"
+  #- title: "Badges"
+  #  url: "https://github.com/blackandwhitehat/BSidesJAX_2023_Badge"
+  #- title: "Sponsors"
+  #  url: /sponsors/
   - title: "About"
     url: /about/
