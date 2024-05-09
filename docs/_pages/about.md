@@ -27,7 +27,7 @@ If you are interested in being a volunteer for this year's event check out the [
 | 2016 | Third annual B-Sides Jax, over 200 attendees and participants. |
 | 2017 | Fourth annual B-Sides Jax, venue moved to Everbank Field (now TIAA Bank Field). |
 | 2018 | Fifth annual B-Sides Jax, held at TIAA Bank Field. |
-| 2019 | Sixth annual B-Sides Jax, held at TIAA Bank Field. |
+| [2019](https://www.bsidesjax.org/2019/) | Sixth annual B-Sides Jax, held at TIAA Bank Field. |
 | 2020 <br> 2022 |  Events not held due to COVID19 health concerns. |
 | [2023](https://www.bsidesjax.org/2023/) | Seventh B-Sides Jax, venue moved to UNF’s Adam W. Herbert University Center|
 
