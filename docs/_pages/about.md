@@ -15,7 +15,7 @@ BSides JAX is organized by volunteers and relies on funding from industry sponso
 {: .notice--info}
 
 **Community Support**:
-We will be announcing more ways ot get involved in 2024; however, if you are looking to make an immediate impact we also accept individual [donations](https://www.paypal.com/donate/?hosted_button_id=MJZURYB6P464W).
+We will be announcing more ways to get involved over the course of 2024; however, if you are looking to make an immediate impact we also accept individual [donations](https://www.paypal.com/donate/?hosted_button_id=MJZURYB6P464W).
 {: .notice}
 
 <!-- //START//
