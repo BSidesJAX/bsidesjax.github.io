@@ -11,7 +11,7 @@ This year is co-sponsored by [Osprey Sec](http://unfcyber.org/), UNF’s Informa
 
 **Sponsorship Opportunity**:
 BSides JAX is organized by volunteers and relies on funding from industry sponsors.
-[2024 Sponsor Kit](https://www.bsidesjax.org/assets/files/2024_BSidesJax_SponsorKit.pdf){: .btn .btn--inverse}
+[2024 Sponsor Kit](https://www.bsidesjax.org/assets/files/2024_BSidesJax_SponsorKit2.pdf){: .btn .btn--inverse}
 {: .notice--info}
 
 **Community Support**:
