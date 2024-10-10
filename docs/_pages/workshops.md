@@ -15,7 +15,7 @@ classes: wide
 
 {::nomarkdown}
 <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
-    <tr width="100%">
+    <tr>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Time</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Workshop 1</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Workshop 2</th>
@@ -60,7 +60,7 @@ classes: wide
     </tr>
     </table>
     <h2>Workshops</h2>
-    <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
+    <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
         <tr>
             <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>A Revisit of How to Land Your First Infosec Job</td>
         </tr>
