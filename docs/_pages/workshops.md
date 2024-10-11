@@ -8,12 +8,13 @@ classes: wide
 
 # Workshop Schedule - November 15th 2024
 
-<!--//lewta/
+
 :bangbang: **NOTICE**: All Workshops are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: Please check the posted schedule for updates. The schedule is subject to change.<br>
+<!--//lewta/
 :star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device.
-{: .notice--danger} 
 //-->
+{: .notice--danger} 
 
 {::nomarkdown}
 <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
@@ -64,12 +65,17 @@ classes: wide
     <h2>Workshops</h2>
     <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
         <tr>
-            <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>A Revisit of How to Land Your First Infosec Job</td>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</td>
         </tr>
         <tr>
             <td>
-                <p>A working session/presentation on how to land your first job in infosec</p>
-                Speaker: Ed Spencer
+                <p>
+                    A working session/presentation on how to land your first job in infosec<br>
+                    This will start with a run down on information security jobs, types of resumes, and then move to preparing resumes for applying for jobs, and direct feedback on their resume. Discussion on approaches to interviewing with pointed feedback on what's really important.<br>
+                </p>
+                Speaker: Ed Spencer( CISSP, GCDA, A+, Sec+, PenTest+, CySA+)<br>
+                Currently a cybersecurity manager with nearly 30 years of experience in IT and Information Security roles. Holds or has held more than a dozen certifications and has trained thousands of people on a variety of topics. His greatest achievements are in helping others change their lives through new careers or elevating their career to a new height.<br>
+                Cost: $125
             </td>
         </tr>
     </table>
