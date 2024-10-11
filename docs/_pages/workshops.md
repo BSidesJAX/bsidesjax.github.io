@@ -27,7 +27,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:00-10:00</td>
-        <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W1 9-5</td>
+        <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</td>
         <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
         <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
         <td style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>&nbsp;</td>
@@ -45,7 +45,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:00-14:00</td>
-        <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W1 9-5</td>
+        <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'></td>
         <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
         <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
         <td style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>&nbsp;</td>
@@ -73,9 +73,9 @@ classes: wide
                     A working session/presentation on how to land your first job in infosec<br>
                     This will start with a run down on information security jobs, types of resumes, and then move to preparing resumes for applying for jobs, and direct feedback on their resume. Discussion on approaches to interviewing with pointed feedback on what's really important.<br>
                 </p>
-                Speaker: Ed Spencer( CISSP, GCDA, A+, Sec+, PenTest+, CySA+)<br>
+                <b>Speaker:</b> Ed Spencer( CISSP, GCDA, A+, Sec+, PenTest+, CySA+)<br>
                 Currently a cybersecurity manager with nearly 30 years of experience in IT and Information Security roles. Holds or has held more than a dozen certifications and has trained thousands of people on a variety of topics. His greatest achievements are in helping others change their lives through new careers or elevating their career to a new height.<br>
-                Cost: $125
+                <b>Cost:</b> $125
             </td>
         </tr>
     </table>
