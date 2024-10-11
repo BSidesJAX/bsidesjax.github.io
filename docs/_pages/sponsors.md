@@ -22,6 +22,9 @@ classes: wide
 
   <a href="https://www.guidepointsecurity.com/" target="_blank">
   <img src="/assets/images/sponsor-gp-logo.png"></a>
+
+  <a href="https://kudelskisecurity.com//" target="_blank">
+  <img src="/assets/images/sponsor-ks-logo.png"></a>
 </figure>
 
 <figure class="third">
