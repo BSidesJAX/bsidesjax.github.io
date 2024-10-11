@@ -28,7 +28,7 @@ classes: wide
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:00-10:00</td>
         <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</td>
-        <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
+        <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Active Directory, Powershell, Blue and Red Team</td>
         <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
         <td style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>&nbsp;</td>
     </tr>
@@ -45,8 +45,8 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:00-14:00</td>
-        <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'></td>
-        <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
+        <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</td>
+        <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Active Directory, Powershell, Blue and Red Team</td>
         <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
         <td style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>&nbsp;</td>
     </tr>
