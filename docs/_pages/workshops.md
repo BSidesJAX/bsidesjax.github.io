@@ -8,10 +8,12 @@ classes: wide
 
 # Workshop Schedule - November 15th 2024
 
+<!--//lewta/
 :bangbang: **NOTICE**: All Workshops are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: Please check the posted schedule for updates. The schedule is subject to change.<br>
-<!--//lewta// >:star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device. //-->
-{: .notice--danger}
+:star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device.
+{: .notice--danger} 
+//-->
 
 {::nomarkdown}
 <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
