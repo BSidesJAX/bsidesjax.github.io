@@ -10,7 +10,7 @@ classes: wide
 
 # BSides Jacksonville 2024 Pre-Conference Workshops
 
-:bangbang: **All workshops are held on Friday, Nov 15th, at UNF and require pre-registration.**<br>
+:bangbang: All workshops are held on Friday, Nov 15th, at UNF and require pre-registration.<br>
 [Register For Pre-Conference Workshops Here](https://www.eventbrite.com/e/bsides-jax-workshops-2024-tickets-1026240361547){: .btn .btn--danger}
 <!--//lewta/
 :bangbang: All Workshops are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
