@@ -27,10 +27,10 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:00-10:00</td>
-        <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</td>
-        <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Active Directory, Powershell, Blue and Red Team</td>
+        <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'><a href="W1">Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</a></td>
+        <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'><a href="W2">Active Directory, Powershell, Blue and Red Team</a></td>
         <td rowspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
-        <td style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>&nbsp;</td>
+        <td style='text-align:center; vertical-align:middle'>&nbsp;</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:00-11:00</td>
@@ -41,18 +41,18 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>12:00-13:00</td>
-        <td colspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Lunch</td>
+        <td colspan="4" style='text-align:center; vertical-align:middle'>Break - Lunch</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:00-14:00</td>
         <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</td>
         <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Active Directory, Powershell, Blue and Red Team</td>
         <td rowspan="4" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>W3 9-5</td>
-        <td style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>&nbsp;</td>
+        <td style='text-align:center; vertical-align:middle'>&nbsp;</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:00-15:00</td>
-        <td style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>&nbsp;</td>
+        <td style='text-align:center; vertical-align:middle'>&nbsp;</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:00-16:00</td>
@@ -65,7 +65,7 @@ classes: wide
     <h2>Workshops</h2>
     <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
         <tr>
-            <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</td>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='W1'>Landing Your First InfoSec Job - Jobs, Resume Prep, Interviewing</td>
         </tr>
         <tr>
             <td>
@@ -75,7 +75,23 @@ classes: wide
                 </p>
                 <b>Speaker:</b> Ed Spencer( CISSP, GCDA, A+, Sec+, PenTest+, CySA+)<br>
                 Currently a cybersecurity manager with nearly 30 years of experience in IT and Information Security roles. Holds or has held more than a dozen certifications and has trained thousands of people on a variety of topics. His greatest achievements are in helping others change their lives through new careers or elevating their career to a new height.<br>
+                <b>Time:</b> 9:00am - 5:00pm 
                 <b>Cost:</b> $125
+            </td>
+        </tr>
+    </table>
+    <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
+        <tr>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='W2'>Active Directory, Powershell, Blue and Red Team</td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Active Directory is a Monolith. Powershell is insanely powerful. Together they can be used to hunt for threats and test those systems. Join Michael Marbut and Eric Kuehn for a hands-on workshop where we will dive into both red team and blue team sides of Active Directory utilizing Powershell.<br>
+                </p>
+                <b>Speaker:</b>Michael Marbut and Eric Khuen<br>
+                <b>Time:</b> 9:00am - 5:00pm 
+                <b>Cost:</b> $200
             </td>
         </tr>
     </table>
