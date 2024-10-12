@@ -6,15 +6,18 @@ layout: splash
 classes: wide
 ---
 
-# Workshop Schedule - November 15th 2024
+## BSides Jacksonville 2024 Pre-Conference Workshops
 
-
-:bangbang: **NOTICE**: All Workshops are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
+:bangbang: **All workshops are held on Friday, at UNF, Nov 15 and require pre-registration and a separate registration from the conference. Register for pre-conference Friday workshops** [here](https://www.eventbrite.com/e/bsides-jax-workshops-2024-tickets-1026240361547)<br>
 :star: Please check the posted schedule for updates. The schedule is subject to change.<br>
 <!--//lewta/
+:bangbang: All Workshops are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device.
 //-->
 {: .notice--danger} 
+
+## Friday, November 15th 2024
+{: .text-center}
 
 {::nomarkdown}
 <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
@@ -89,7 +92,7 @@ classes: wide
                 <p>
                     Active Directory is a Monolith. Powershell is insanely powerful. Together they can be used to hunt for threats and test those systems. Join Michael Marbut and Eric Kuehn for a hands-on workshop where we will dive into both red team and blue team sides of Active Directory utilizing Powershell.<br>
                 </p>
-                <b>Speaker:</b>Michael Marbut and Eric Khuen<br>
+                <b>Speaker:</b> Michael Marbut and Eric Khuen<br>
                 <b>Time:</b> 9:00am - 5:00pm<br>
                 <b>Cost:</b> $200
             </td>
