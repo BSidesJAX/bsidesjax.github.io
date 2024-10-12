@@ -8,13 +8,13 @@ classes: wide
 
 # BSides Jacksonville 2024 Pre-Conference Workshops
 
-:bangbang: **All workshops are held on Friday, at UNF, Nov 15 and require pre-registration and a separate registration from the conference.**<br>
-[Register for pre-conference Friday workshops](https://www.eventbrite.com/e/bsides-jax-workshops-2024-tickets-1026240361547){: .btn .btn--inverse}
+**All workshops are held on Friday, at UNF, Nov 15 and require pre-registration and a separate registration from the conference.**<br>
+[Register for pre-conference Friday workshops](https://www.eventbrite.com/e/bsides-jax-workshops-2024-tickets-1026240361547){: .btn .btn--primary}
 <!--//lewta/
 :bangbang: All Workshops are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device.
 //-->
-{: .notice--warning} 
+{: .notice} 
 
 ## Friday, November 15th 2024
 {: .text-center}
@@ -65,7 +65,7 @@ classes: wide
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-17:00</td>
     </tr>
     </table>
-    :star: Please check the posted schedule for updates. The schedule is subject to change.{: .text-center}
+    <div style='text-align:center; font-weight:700;'>:star: Please check the posted schedule for updates. The schedule is subject to change.</div>
     <h2>Workshops</h2>
     <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
         <tr>
@@ -108,7 +108,7 @@ classes: wide
                 <p>
                     If you want to learn how to perform security testing on web applications that use application programming interfaces (APIs), this course is for you. APIs are the connective tissue responsible for transferring information between systems, both internally and externally. They are also a common target for cyberattacks, as they can expose sensitive data, application logic, and internal infrastructure. In this course, you will learn the basics of API penetration testing, including: What is an API and how it works What are the common types of APIs (SOAP and REST) and their differences What are some of the most common security risks and vulnerabilities of APIs How to use tools and techniques to test APIs for security issues By the end of this course, you will be able to conduct a basic API pen test using a systematic approach and industry best practices. You will also gain hands-on experience with popular tools such as Postman, Burp Suite, Nmap, and OWASP ZAP. This course is suitable for beginners who have some knowledge of web application security and want to expand their skills to API security testing.<br>
                 </p>
-                <b>Speaker:</b>Jennifer Shannon, Senior Security Consultant at Secure Ideas<br>
+                <b>Speaker:</b> Jennifer Shannon, Senior Security Consultant at Secure Ideas<br>
                 Jennifer is a Senior Security Consultant with Secure Ideas with a background in malware analysis, penetration testing, and teaching. She graduated with honors from Florida State College at Jacksonville’s networking program. An avid computer geek for most of her life, she began her journey in cybersecurity as a SOC Analyst where she showed an aptitude for both penetration testing and malware analysis. She was quickly promoted into a role that capitalized on her abilities. She has experience performing penetration tests against web applications, mobile software and platforms, and social engineering. Jennifer discovered a passion for computers and problem solving at a young age. She bought Steal This Computer Book 2.0, by Wallace Wang, with one of her first paychecks, and became enamored with hacking and cyber security. While pursuing her degree she dedicated time to teaching computing skills to underrepresented minorities. She is the co-leader for the TOOOL chapter in Jacksonville, FL. Jennifer continues to be passionate about teaching and is eager to share her knowledge with anyone who will listen. In her free time, she likes gaming, playing around with SDR’s, and painting.<br>
                 <b>Time:</b> 9:00am - 5:00pm<br>
                 <b>Cost:</b> $200
