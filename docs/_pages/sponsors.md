@@ -6,6 +6,12 @@ layout: splash
 classes: wide
 ---
 
+:bangbang: **Sponsorship Opportunity**:
+Are you interested in being a sponsor for this year's event? Check out the [Sponsor Kit](/assets/files/2024_BSidesJax_SponsorKit2.pdf) or send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
+{: .notice--info}
+
+## 2024 Sponsors
+
 <figure class="third">
   <figcaption>Platinum Sponsors</figcaption>
   <a href="https://www.trace3.com/" target="_blank">
@@ -44,7 +50,3 @@ classes: wide
   <a href="https://www.secureideas.com/" target="_blank">
   <img src="/assets/images/sponsor-si-logo.svg"></a>
 </figure>
-
-:bangbang: **Sponsorship Opportunity**:
-Are you interested in being a sponsor for this year's event? Check out the [Sponsor Kit](/assets/files/2024_BSidesJax_SponsorKit2.pdf) or send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
-{: .notice--info}
