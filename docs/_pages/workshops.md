@@ -6,15 +6,15 @@ layout: splash
 classes: wide
 ---
 
-## BSides Jacksonville 2024 Pre-Conference Workshops
+# BSides Jacksonville 2024 Pre-Conference Workshops
 
-:bangbang: **All workshops are held on Friday, at UNF, Nov 15 and require pre-registration and a separate registration from the conference. Register for pre-conference Friday workshops** [here](https://www.eventbrite.com/e/bsides-jax-workshops-2024-tickets-1026240361547)<br>
-:star: Please check the posted schedule for updates. The schedule is subject to change.<br>
+:bangbang: **All workshops are held on Friday, at UNF, Nov 15 and require pre-registration and a separate registration from the conference.**<br>
+[Register for pre-conference Friday workshops](https://www.eventbrite.com/e/bsides-jax-workshops-2024-tickets-1026240361547){: .btn .btn--danger}
 <!--//lewta/
 :bangbang: All Workshops are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device.
 //-->
-{: .notice--danger} 
+{: .notice--warning} 
 
 ## Friday, November 15th 2024
 {: .text-center}
@@ -65,6 +65,7 @@ classes: wide
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-17:00</td>
     </tr>
     </table>
+    :star: Please check the posted schedule for updates. The schedule is subject to change.{: .text-center}
     <h2>Workshops</h2>
     <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
         <tr>
