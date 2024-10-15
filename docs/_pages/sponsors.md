@@ -12,7 +12,7 @@ Are you interested in being a sponsor for this year's event? Check out the [Spon
 
 ## 2024 Sponsors
 
-<figure class="third">
+<figure class="half">
   <figcaption>Platinum Sponsors</figcaption>
   <a href="https://www.trace3.com/" target="_blank">
   <img src="/assets/images/sponsor-t3-logo.png"></a>
@@ -49,4 +49,10 @@ Are you interested in being a sponsor for this year's event? Check out the [Spon
   <figcaption>Lock Pick Village</figcaption>
   <a href="https://www.secureideas.com/" target="_blank">
   <img src="/assets/images/sponsor-si-logo.svg"></a>
+</figure>
+
+<figure class="third">
+  <figcaption>Prizes</figcaption>
+  <a href="https://hak5.org/" target="_blank">
+  <img src="/assets/images/sponsor-h5-logo.jpg"></a>
 </figure>
