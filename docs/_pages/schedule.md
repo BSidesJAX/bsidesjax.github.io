@@ -10,7 +10,7 @@ classes: wide
 
 :bangbang: **NOTICE**: All Talks and Events are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: Please check the posted schedule for updates. The schedule is subject to change.<br>
-<!--//START// :star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device. //END//-->
+<!-- TODO: Get confirm on HT and uncomment // :star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device. //END//-->
 {: .notice--danger}
 
 {::nomarkdown}
@@ -23,8 +23,8 @@ classes: wide
         <th colspan="2" style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Events</th>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>08:30-09:00</td>
-        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Registration</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-top-style:solid; border-width:thin;'>08:30-09:00</td>
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle border-top-style:solid;'>Registration</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:00-09:30</td>
@@ -32,18 +32,18 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:30-10:30</td>
-        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: <a href="#K1">KEYNOTE</a><br>Jason E. Street</td>
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: <a href="#K1">KEYNOTE</a><br>Jason E. Street</td> <!-- TODO: Keynote Title -->
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:30-11:30</td>
-        <td><a href="#T7">AL, AI, and Sigma: Automating Threat Hunting With OpenAI</a><br><br>@Astacilauskas</td>
+        <td><a href="#T7">AL, AI, and Sigma: Automating Threat Hunting With OpenAI</a><br><br>@Astacilauskas</td> <!-- TODO: Do we have a different name -->
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T10">Tales From The Vault</a><br><br>Jennifer Shannon</td>
-        <td><a href="#T13">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland</td>
+        <td><a href="#T13">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland</td> <!-- TODO: Add last name -->
         <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>Capture&nbsp;The&nbsp;Flag<br><br>Lockpick&nbsp;Village<br><br>Soldering&nbsp;Village<br></td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:30-12:30</td>
-        <td style='text-align:center; vertical-align:middle'><a href="#T2">Jacksonville Women in Technology</a><br>Panel Discussion:<br><a href="#T6">TBD</a></td>
+        <td><a href="#T2">Jacksonville Women in Technology</a><br>Panel Discussion:<br><a href="#T6">TBD</a></td> <!-- TODO: Add panel topic -->
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T3">API Security Fundamentals</a><br><br>Craig Galley</td>
         <td><a href="#T1">Lets Build a Soc Puppet: Standing Up Your Own Security Operations Center at Home</a><br><br>Christian McLaughlin</td>
     </tr>
@@ -53,7 +53,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:30-14:30</td>
-        <td style='text-align:center; vertical-align:middle'>CISO Panel<br>Panel Discussion:<br><a href="#T6">TBD</a></td>
+        <td>CISO Panel<br>Panel Discussion:<br><a href="#T6">TBD</a></td> <!-- TODO: Add panel topic -->
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T9">Alice in Generative AI Land</a><br><br>Nathan Hamiel</td>
         <td><a href="#T11">Passkeys: The Good, the Bad and the Ugly</a><br><br>Champ Clark</td>
     </tr>
@@ -74,6 +74,7 @@ classes: wide
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
+<!-- TODO: Update Keynote, Talk, and Speaker tables -->
 <h2>Keynote</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
