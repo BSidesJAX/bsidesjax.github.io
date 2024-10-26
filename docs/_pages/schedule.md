@@ -43,7 +43,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:30-12:30</td>
-        <td><a href="#T4">Jacksonville Women in Technology</a><br>Panel Discussion:<br>TBD</td> <!-- TODO: Add panel topic -->
+        <td><a href="#T4">Jacksonville Women in Technology Panel Discussion</a><br>Topic: TBD</td> <!-- TODO: Add panel topic -->
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T5">API Security Fundamentals</a><br><br>Craig Galley</td>
         <td><a href="#T6">Lets Build a Soc Puppet: Standing Up Your Own Security Operations Center at Home</a><br><br>Christian McLaughlin</td>
     </tr>
@@ -53,7 +53,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:30-14:30</td>
-        <td>CISO Panel<br>Panel Discussion:<br><a href="#T7">TBD</a></td> <!-- TODO: Add panel topic -->
+        <td><a href="#T7">CISO Panel Discussion</A><br>Topic: TBD</a></td> <!-- TODO: Add panel topic -->
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Alice in Generative AI Land</a><br><br>Nathan Hamiel</td>
         <td><a href="#T9">Passkeys: The Good, the Bad and the Ugly</a><br><br>Champ Clark</td>
     </tr>
@@ -94,8 +94,10 @@ classes: wide
     </tr>
     <tr>
         <td>
-            <p>insert awesome talk abstract here</p>
-            Speaker: @Astacilauskas
+            <p>Traditional threat hunting involves taking threat intelligence articles, extracting the necessary details, and searching for malicious activity. More often than not, we find nothing and then forget how we searched for the malicious activity. This is why one of the products of any threat hunt should be a Sigma rule.</p>
+            <p>Reading through article after article and extracting the necessary details to write a Sigma rule can be time-consuming and tedious. But imagine a world where AI can do this for us, freeing up our time for more critical tasks. I remember a quote from a system administrator when I worked at the service desk decades ago: "If you need to type a command more than once, write a script." Let's take a modern twist on that: "If you need to do a task more than once, have AI do it."</p>
+            <p>This presentation will discuss what threat hunting is and is not. One to write Sigma rules. Then, training an OpenAI GPT4 model, write a Sigma rule.
+            <p>Speaker: @Astacilauskas</p>
         </td>
     </tr>
     <tr>
@@ -103,8 +105,10 @@ classes: wide
     </tr>
     <tr>
         <td>
-            <p>insert awesome talk abstract here</p>
-            Speaker: Jennifer Shannon
+            <p>In the face of cybersecurity threats and compromises, companies tend to focus heavily on how they can secure their digital infrastructure. Yet the true challenge often lies not in the complexity of codes, but in the simplicity of human ingenuity. "Tales From the Vault" delves into this intriguing battleground where sometimes the most dangerous weapon is the human touch. This talk presents an in-depth exploration of physical penetration testing—the art of breaching defenses without the need for digital keys.</p>
+            <p>Even the toughest firewall won’t stop someone from walking out of your building with sensitive data. Through this lens, we venture into the heart of social engineering, recon, and bypass techniques. This session presents a series of stories to showcase vulnerabilities in physical security. Attendees will journey through a series of real-life scenarios that challenge preconceived notions of security. From the art of blending in to bypass techniques, this session will reveal how every lock has a key, and sometimes, that key is simply asking someone to open the door for you.</p>
+            <p>This session is more than just a talk, it’s an exploration of the interconnected relationship of physical and digital security</p>
+            <p>Speaker: Jennifer Shannon</p>
         </td>
     </tr>
     <tr>
@@ -112,8 +116,8 @@ classes: wide
     </tr>
     <tr>
         <td>
-            <p>insert awesome talk abstract here</p>
-            Speaker: Roland
+            <p>A discussion about cross-collaboration for software developers & pentesters.</p>
+            <p>Speaker: Roland</p>
         </td>
     </tr>
     <tr>
@@ -211,7 +215,7 @@ classes: wide
             Speaker: Kirby Wedekind</td>
     </tr>
         <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T15'>Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness <a align="right" hfref="top">top</a></td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T15'>Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness <a align="right" hfref="#top">Back to Schedule</a></td>
     </tr>
     <tr>
         <td>
