@@ -16,7 +16,7 @@ classes: wide
 {::nomarkdown}
 <table style="border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
-        <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Time</th>
+        <th id="top" style='background-color:#D5D8DC; text-align:center; vertical-align:middle border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Time</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Track 1</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Track 2</th>
         <th style='background-color:#D5D8DC; text-align:center; vertical-align:middle; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>Track 3</th>
@@ -36,16 +36,16 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:30-11:30</td>
-        <td><a href="#T7">AL, AI, and Sigma: Automating Threat Hunting With OpenAI</a><br><br>@Astacilauskas</td> <!-- TODO: Do we have a different name -->
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T10">Tales From The Vault</a><br><br>Jennifer Shannon</td>
-        <td><a href="#T13">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland</td> <!-- TODO: Add last name -->
+        <td><a href="#T1">AL, AI, and Sigma: Automating Threat Hunting With OpenAI</a><br><br>@Astacilauskas</td> <!-- TODO: Do we have a different name -->
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T2">Tales From The Vault</a><br><br>Jennifer Shannon</td>
+        <td><a href="#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland</td> <!-- TODO: Add last name -->
         <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>Capture&nbsp;The&nbsp;Flag<br><br>Lockpick&nbsp;Village<br><br>Soldering&nbsp;Village<br></td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:30-12:30</td>
-        <td><a href="#T2">Jacksonville Women in Technology</a><br>Panel Discussion:<br><a href="#T6">TBD</a></td> <!-- TODO: Add panel topic -->
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T3">API Security Fundamentals</a><br><br>Craig Galley</td>
-        <td><a href="#T1">Lets Build a Soc Puppet: Standing Up Your Own Security Operations Center at Home</a><br><br>Christian McLaughlin</td>
+        <td><a href="#T4">Jacksonville Women in Technology</a><br>Panel Discussion:<br>TBD</td> <!-- TODO: Add panel topic -->
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T5">API Security Fundamentals</a><br><br>Craig Galley</td>
+        <td><a href="#T6">Lets Build a Soc Puppet: Standing Up Your Own Security Operations Center at Home</a><br><br>Christian McLaughlin</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>12:30-13:30</td>
@@ -53,28 +53,28 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:30-14:30</td>
-        <td>CISO Panel<br>Panel Discussion:<br><a href="#T6">TBD</a></td> <!-- TODO: Add panel topic -->
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T9">Alice in Generative AI Land</a><br><br>Nathan Hamiel</td>
-        <td><a href="#T11">Passkeys: The Good, the Bad and the Ugly</a><br><br>Champ Clark</td>
+        <td>CISO Panel<br>Panel Discussion:<br><a href="#T7">TBD</a></td> <!-- TODO: Add panel topic -->
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Alice in Generative AI Land</a><br><br>Nathan Hamiel</td>
+        <td><a href="#T9">Passkeys: The Good, the Bad and the Ugly</a><br><br>Champ Clark</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:30-15:30</td>
-        <td><a href="#T4">Exploiting Token Based Authentication: Attacking and Defending Identities in the 2020s</a><br><br>DrAzureAD</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Incident Response for the Ovewhelmed, Understaffed and Unprepared</a><br><br>Tony Drake</td>
-        <td><a href="#">Using Analytics to hack Applicant Tracking Systems (ATS)</a><br><br>Brandi Kiehl</td>
+        <td><a href="#T10">Exploiting Token Based Authentication: Attacking and Defending Identities in the 2020s</a><br><br>DrAzureAD</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T11">Incident Response for the Ovewhelmed, Understaffed and Unprepared</a><br><br>Tony Drake</td>
+        <td><a href="#T12">Using Analytics to hack Applicant Tracking Systems (ATS)</a><br><br>Brandi Kiehl</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:30-16:30</td>
-        <td><a href="#T5">From Intelligence to Action: CTI-Driven Red Teaming</a><br><br>Ralph Hittell</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T12">Secure by Demand</a><br><br>Kirby Wedekind</td>
-        <td><a href="#">Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness</a><br><br>Rebecca Hughes</td>
+        <td><a href="#T13">From Intelligence to Action: CTI-Driven Red Teaming</a><br><br>Ralph Hittell</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T14">Secure by Demand</a><br><br>Kirby Wedekind</td>
+        <td><a href="T15#">Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness</a><br><br>Rebecca Hughes</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:30-17:00</td>
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
-<!-- TODO: Update Keynote, Talk, and Speaker tables -->
+<!-- TODO: Add Speaker table or page -->
 <h2>Keynote</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
@@ -82,7 +82,7 @@ classes: wide
     </tr>
     <tr>
         <td>
-            <p>TBD</p>
+            <p>TBD</p> <!-- TODO: Add keynoate abstract -->
             Speaker: Jason E. Street
         </td>
     </tr>
@@ -90,116 +90,133 @@ classes: wide
 <h2>Talks</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>A Revisit of How to Land Your First Infosec Job</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>AL, AI, and Sigma: Automating Threat Hunting With OpenAI</td>
     </tr>
     <tr>
         <td>
-            <p>A working session/presentation on how to land your first job in infosec</p>
-            Speaker: Ed Spencer
+            <p>insert awesome talk abstract here</p>
+            Speaker: @Astacilauskas
         </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T2'>CISO Panel</td>
-    </tr>
-    <tr>
-        <td>Moderator: Matthew Parks</td>
-    </tr>
-    <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T3'>Developers DEVELOPERS DEVELOPERS : Three WAYS TO TARGET DEVELOPERS</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T2'>Tales From The Vault</td>
     </tr>
     <tr>
         <td>
-            <p>Everybody is talking about supply chain security. But supply chains are more than parts, libraries, and APIs. They include people, and developers, to duct tape the parts into something that vaguely resembles functioning software. While developers often hide in their cubicles or home offices to seek safety in the shadows of large monitors, attackers have found them. They found them in IDA plugin stores, software package repositories, Stackoverflow, and in online gaming communities (even during work hours). Network defenders on the other hand have often ignored developers, not just because they are "weird", but because standard security solutions often interfere with their work and cause them to complain loudly. In this talk, you will learn about some of these attacks, and how to defend against them, and you will also learn some bad jokes about developers.</p>
-            Speaker: Johannes Ullrich
+            <p>insert awesome talk abstract here</p>
+            Speaker: Jennifer Shannon
         </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T4'>Infiltrating modern organizations using Supply Chain Attacks</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T3'>Developer & Hacker Harmony: The Nuances of Cybersecurity</td>
     </tr>
     <tr>
         <td>
-            <p>Within this session we will be deep diving into custom malware development for EDR evasion. We will be walking through modern detections capabilities, built techniques to bypass them, and finally compromise a fully monitored environment using a Supply Chain Compromise. This session will be technical. We will be designing and implementing techniques throughout the presentation until a final malware is ready for deployment. Brace yourself for a thrilling journey through the shadows of the digital realm, where adversaries roam undetected.</p>
-            Speaker:  Mikkel Ole Romer
+            <p>insert awesome talk abstract here</p>
+            Speaker: Roland
         </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T5'>Intersection of Incident Response, Disaster Recovery and Crisis Management</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T4'>Jacksonville Women in Technology Panel Discussion</td>
     </tr>
     <tr>
         <td>
-            <p>You may have a good Cybersecurity Incident Response Plan, a real-life tested Disaster Recovery Plan, and a Crisis Management Plan. But what happens when one of these events morphs into a bigger enterprise issue? Do your executive team and staff understand these plans’ synergies or when a cyber incident becomes a disaster?
-                In this session, you will learn when these plans come together and how to coordinate efforts to navigate a catastrophic event and prioritize response and recovery efforts.</p>
-                Speaker: Carlos Rodriguez
+            <p>insert awesome talk abstract here</p>
+            Moderator:  TBD <!-- TODO: Who is moderating WIT? -->
         </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T6'>Jacksonville Women in Technology Panel Discussion: Navigating the cyber security field</td>
-    </tr>
-    <tr>
-        <td>Moderator: Mary Cruz</td>
-    </tr>
-    <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T7'>Malware Analysis - Presentation w/Demos</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T5'>API Security Fundamentals</td>
     </tr>
     <tr>
         <td>
-            <p>Static/Dynamic... IDA, Cuckoo... </p>
+            <p>insert awesome talk abstract here</p>
             Speaker: Craig Galley
         </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T8'>Cyber Security 101: Security Awareness</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T6'>Lets Build a Soc Puppet: Standing Up Your Own Security Operations Center at Home</td>
     </tr>
     <tr>
         <td>
-            <p>-</p>
-            Speaker:Jalena Henderson</td>
-    </tr>
-    <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T9'>Mystified by the alphabet soup of cloud native security?</td>
-    </tr>
-    <tr>
-        <td>
-            <p>Mystified by the alphabet soup of cloud native security? Perhaps your productivity has been disrupted by the number of new acronyms - CWPP, CSPM, KSPM, and the list goes on.</p>
-            <p>We’ll also look at the people side of things, looking at the personas and teams that are involved in the cloud native application lifecycle. This talk is about education with few tools mentioned.</p>
-            Speaker: Dale Rodriguez
+             <p>insert awesome talk abstract here</p>
+            Speaker: Christian McLaughlin
         </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T10'>The CISO's Playbook - Crafting a Cybersecurity Strategy for AI</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T7'>CISO Panel Discussion</td>
     </tr>
     <tr>
         <td>
-            <p>The journey of artificial intelligence has unfolded over several decades, yet the latest developments in generative AI have been remarkably transformative, resulting in groundbreaking progress that has deeply influenced our end-users this year. As such, for those in mid-to-senior security leadership roles, understanding the unique AI challenges in cybersecurity is critical for protecting an organization's assets and data.</p>
-            <p>This talk will help empower security leaders with the necessary knowledge to develop a strategic approach to AI cybersecurity. By recognizing AI's unique challenges, implementing proactive security measures, and promoting continuous improvement, organizations can bolster their systems' robustness and resilience against cyber threats.</p>
-            <p>As AI systems increasingly integrate into daily operations, security leaders must comprehend the challenges and proactively implement strategies that respond to and anticipate cyber threats. This approach will protect the organization's assets and data while building trust with stakeholders and end-users who depend on the systems' robustness and resilience.</p>
-            Speaker: Gina Yacone</td>
+            <p>insert awesome talk abstract here</p>
+            Moderator: TBD <!-- TODO: Who is moderfating? -->
+        </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T11'>Ultra-Efficient MIFARE Classic Attacks and New Frontiers in Smartcard Security</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T8'>Alice in Generative AI Land</td>
     </tr>
     <tr>
         <td>
-            <p>MIFARE Classic smartcards, with a staggering global footprint of over 1 billion cards and 100 million readers, have been a vital component of modern security infrastructure. Their widespread use has made them a subject of interest for security research. Historically, vulnerabilities within these cards have been exploited using attacks like the Mfkey32 and Nested attacks. Yet, the operational complexity and hardware requirements for these attacks have kept many potential exploiters at bay.</p>
-            <p>This presentation details our significant advancements that reduce the resource requirements for MIFARE Classic attack methodologies. We demonstrate a remarkable memory reduction of over 99.75% and a 2000% increase in attack speed. These advancements allow us to conduct the attack on resource-constrained embedded devices, most notably the Flipper Zero pentesting device. We also touch upon upcoming research developments in other smartcard systems.</p>
-            Speaker: Nathan Nye
+            <p>insert awesome talk abstract here</p>
+            Speaker: Nathan Hamiel</td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T9'>Passkeys: The Good, the Bad and the Ugly</td>
+    </tr>
+    <tr>
+        <td>
+            <p>insert awesome talk abstract here</p>
+            Speaker: Champ Clark
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T10'>Exploiting Token Based Authentication: Attacking and Defending Identities in the 2020s</td>
+    </tr>
+    <tr>
+        <td>
+            <p>insert awesome talk abstract here</p>
+            Speaker: DrAzureAD</td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T11'>Incident Response for the Ovewhelmed, Understaffed and Unprepared</td>
+    </tr>
+    <tr>
+        <td>
+            <p>insert awesome talk abstract here</p>
+            Speaker: Tony Drake
             </td>
     </tr>
     <tr>
-            <td style='background-color:#F2F3F4; font-weight:700;' id='T12'>Unmasking the hackers, battling imposter syndrome</td>
+            <td style='background-color:#F2F3F4; font-weight:700;' id='T12'>Using Analytics to hack Applicant Tracking Systems (ATS)</td>
     </tr>
     <tr>
         <td>
-            <p>Explore the impact of Imposter Syndrome in the cybersecurity field in this presentation. Discover strategies to recognize, combat, and overcome feelings of inadequacy, ultimately fostering a supportive cybersecurity culture and unleashing professionals' true potential. </p>
-            Speaker: Taryn Swietek</td>
+            <p>insert awesome talk abstract here</p>
+            Speaker: Brandi Kiehl</td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T13'>Using Deception to Improve Security</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T13'>From Intelligence to Action: CTI-Driven Red Teaming</td>
     </tr>
     <tr>
         <td>
-            <p>Incorporating deception into your cybersecurity arsenal can provide a proactive and dynamic defense mechanism against today's relentless cyber threats. By understanding the principles, benefits, challenges, and ethical considerations of deception technology, organizations can make informed decisions to bolster their security posture and stay one step ahead of malicious actors.</p>
-            Speaker: Steve Wingate</td>
+            <p>insert awesome talk abstract here</p>
+            Speaker: Ralph Hittell</td>
+    </tr>
+        <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T14'>Secure by Demand</td>
+    </tr>
+    <tr>
+        <td>
+            <p>insert awesome talk abstract here</p>
+            Speaker: Kirby Wedekind</td>
+    </tr>
+        <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T15'>Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness <a align="right" hfref="top">top</a></td>
+    </tr>
+    <tr>
+        <td>
+            <p>insert awesome talk abstract here</p>
+            Speaker: Rebecca Hughes</td>
     </tr>
 </table>
 
