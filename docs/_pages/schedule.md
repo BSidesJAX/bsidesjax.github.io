@@ -39,7 +39,11 @@ classes: wide
         <td><a href="#T1">AL, AI, and Sigma: Automating Threat Hunting With OpenAI</a><br><br>@Astacilauskas</td> <!-- TODO: Do we have a different name -->
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T2">Tales From The Vault</a><br><br>Jennifer Shannon</td>
         <td><a href="#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland</td> <!-- TODO: Add last name -->
-        <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>Capture&nbsp;The&nbsp;Flag<br><br>Lockpick&nbsp;Village<br><br>Soldering&nbsp;Village<br></td>
+        <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>
+            <a href="https://bsidesjax2024.ctfd.io/">Capture&nbsp;The&nbsp;Flag</a><br><br>
+            Lockpick&nbsp;Village<br><br>
+            Soldering&nbsp;Village<br>
+        </td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:30-12:30</td>
@@ -74,20 +78,19 @@ classes: wide
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
-<!-- TODO: Add Speaker table or page -->
-<h2>Keynote</h2>
+<h2>Keynote Information</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
         <td style='background-color:#F2F3F4; font-weight:700;' id='K1'>KEYNOTE</td>
     </tr>
     <tr>
         <td>
-            <p>TBD</p> <!-- TODO: Add keynoate abstract -->
+            <p>Topic To Be Announced</p> <!-- TODO: Add keynoate abstract -->
             Speaker: Jason E. Street
         </td>
     </tr>
 </table>
-<h2>Talks</h2>
+<h2>Talks Information</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
         <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>AL, AI, and Sigma: Automating Threat Hunting With OpenAI</td>
@@ -97,7 +100,7 @@ classes: wide
             <p>Traditional threat hunting involves taking threat intelligence articles, extracting the necessary details, and searching for malicious activity. More often than not, we find nothing and then forget how we searched for the malicious activity. This is why one of the products of any threat hunt should be a Sigma rule.</p>
             <p>Reading through article after article and extracting the necessary details to write a Sigma rule can be time-consuming and tedious. But imagine a world where AI can do this for us, freeing up our time for more critical tasks. I remember a quote from a system administrator when I worked at the service desk decades ago: "If you need to type a command more than once, write a script." Let's take a modern twist on that: "If you need to do a task more than once, have AI do it."</p>
             <p>This presentation will discuss what threat hunting is and is not. One to write Sigma rules. Then, training an OpenAI GPT4 model, write a Sigma rule.
-            <p>Speaker: @Astacilauskas</p>
+            <p><b>Speaker: </b><a href="#">@Astacilauskas</a></p>
         </td>
     </tr>
     <tr>
@@ -242,5 +245,5 @@ classes: wide
         </td>
     </tr>
 </table>
-
+<!-- TODO: Add Speaker table or page -->
 {:/}
