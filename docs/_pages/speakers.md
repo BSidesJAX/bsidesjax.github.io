@@ -30,7 +30,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S1'>@Astacilauskas</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/astacilauskas.jpg" alt="Astacilauskas" width="500" height="600"></td>
         <td>
             <p>With over 23 years of experience in incident response and a solid educational background, including a master's degree in information technology management from Webster University and a bachelor's degree in information technology from Central Michigan University, I have expertise spans threat hunting, cyber threat analysis, incident detection, and rapid mitigation, supported by eight GIAC and CISSP certifications in the areas of digital forensics, network security monitoring, and cyber security engineering.</p>
             <p>My commitment to knowledge sharing and thought leadership is a reflection of my deep passion for the field and my strong desire to drive innovation within the industry. In addition to my blog, I have had the privilege of speaking at BSides NOVA and on the podcast Paul's Security Weekly Unlocked, further fueling my motivation to contribute to the cybersecurity community.</p>
@@ -41,7 +41,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S2'>Brandi Kiehl</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/brandiKiehl.jpg" alt="Brandi Kiehl" width="500" height="600"></td>
         <td>
             <p>Brandi is a business co-owner and philanthropist who enjoys teaching, helping people discover their potential, mentoring etc. Currently Co-Organizes the Women in Technology of Jacksonville Group, PyJax (Python of Jacksonville), BSidesJax IT Security Conference and Florida IT Professionals groups. She is also on the Jacksonville MOSH Planetarium Planning Board, the Duval County Amateur Radio Emergency Services Assistant Coordinator as well as on several Amateur Radio Boards and Volunteer Examiner Radio Licensing.</p>
             <p>An experienced IT professional, data scientist, analyst, and management experience (10+ years of project management experience). Other skills include digital marketing, digital content creation, web applications, web development, photography, engineering and coding.</p>
@@ -52,7 +52,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S3'>Champ Clark</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/champClark.png" alt="Champ Clark" width="500" height="600"></td>
         <td>
             <p>Champ Clark III is the Chief Technology Officer at Quadrant Information Security and the creator of the Sagan log analysis engine (https://github.com/quadrantsec/sagan). He has presented at Defcon, Chaos Computer Club “Congress”, Suricon, ISSA events, multiple B-Sides, and more. He is also an author, father, and musician. Champ recently started a new venture known as Key9 (https://k9.io) which merges Passkeys and Identity and Access Management.</p>
             <p><b>Talk: </b><a href="/schedule/#T9">Passkeys: The Good, the Bad and the Ugly</a></p>
@@ -62,7 +62,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S4'>Christian McLaughlin</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/christianMcLaughlin.jpg" alt="Christian McLaughlin" width="500" height="600"></td>
         <td>
             <p>Christian McLaughlin is an Information Security Professional with 5 years of experience in offensive and defensive cybersecurity operations. As a U.S. Navy veteran, he served honorably for 8 years as an Aviation Electrician's Mate in the Maritime Patrol and Reconnaissance Aircraft (MPRA) community, working on P-3C "Orion" and P-8A "Poseidon" aircraft.</p>
             <p>In 2019, he transitioned from a career in Naval Aviation to a career in Information Security in the private sector. His roles have included working as a SOC Analyst in a Security Operations Center, performing security consultation services for offensive security assessments as a Penetration Tester, and working as a Security Engineer with a strong focus on Cloud Security, DevSecOps, Incident Response, and Vulnerability Management.</p>
@@ -75,7 +75,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S5'>Craig Galley</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/craigGalley.jpg" alt="Craig Galley" width="500" height="600"></td>
         <td>
             <p>Former CISO - City of Jacksonville and current Security Architect at JEA</p>
             <p><b>Talk: </b><a href="/schedule/#T5">API Security Fundamentals</a></p>
@@ -85,7 +85,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S6'>DrAzureAD</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/drAzureAD.jpg" alt="DrAzureAD" width="500" height="600"></td>
         <td>
             <p>Dr Nestori Syynimaa is a Principal Identity Security Researcher at Microsoft Threat Intelligence Center (MSTIC). He has over a decade of experience with the security of Microsoft cloud services and is known as the creator of the AADInternals toolkit. Before joining Microsoft in early 2024, Dr Syynimaa worked as a researcher, CIO, consultant, trainer, and university lecturer for over 20 years.</p>
             <p><b>Talk: </b><a href="/schedule/#T10">Exploiting Token Based Authentication: Attacking and Defending Identities in the 2020s</a></p>
@@ -95,7 +95,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S7'>Jennifer Shannon</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/jenniferShannon.jpg" alt="Jennifer Shannon" width="500" height="600"></td>
         <td>
             <p>Jennifer is a Senior Security Consultant with Secure Ideas with a background in malware analysis, penetration testing, and teaching. She graduated with honors from Florida State College at Jacksonville’s networking program. An avid computer geek for most of her life, she began her journey in cybersecurity as a SOC Analyst where she showed an aptitude for both penetration testing and malware analysis. She was quickly promoted into a role that capitalized on her abilities. She has experience performing penetration tests against web applications, mobile software and platforms, and social engineering.</p>
             <p>Jennifer discovered a passion for computers and problem solving at a young age. She bought Steal This Computer Book 2.0, by Wallace Wang, with one of her first paychecks, and became enamored with hacking and cyber security. While pursuing her degree she dedicated time to teaching computing skills to underrepresented minorities. She is the co-leader for the TOOOL chapter in Jacksonville, FL. Jennifer continues to be passionate about teaching and is eager to share her knowledge with anyone who will listen.</p>
@@ -107,7 +107,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S8'>Kirby Wedekind</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/kirbyWedekind.jpg" alt="Kirby Wedekind" width="500" height="600"></td>
         <td>
             <p>Kirby Wedekind serves as the Department of Homeland Security’s Protective Security Advisor for northeast Florida. He is responsible for outreach, engagement, and coordination with the local critical infrastructure community –  including private industry, academia, non-profit organizations, and government agencies – to reinforce cybersecurity, physical security, and resilience initiatives. He is a task force officer assigned to FBI Jacksonville’s Cyber Task Force and chairman of the advisory board for Jacksonville University’s Department of Computing Science & Center of Cybersecurity. Dr. Wedekind is a Jacksonville native who previously served for 10 years in the US Marines with combat deployments to Iraq (2009), Afghanistan (2011-2012), and with the 22nd Marine Expeditionary Unit (2016). He holds a B.A. in English from Wake Forest University, an Executive Master’s degree from Georgetown University in Emergency and Disaster Management, and doctorate (PhD) in Defence and Security from Cranfield University at the Defence Academy of the United Kingdom.</p>
             <p><b>Talk: </b><a href="/schedule/#T14">Secure by Demand</a></p>
@@ -117,7 +117,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S9'>Nathan Hamiel</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/nathanHamiel.jpg" alt="Nathan Hamiel" width="500" height="600"></td>
         <td>
             <p>Nathan Hamiel is Senior Director of Research at Kudelski Security, where he leads the fundamental and applied research team, part of the Innovation group working to define the future of the company’s products and services. He focuses on emerging and disruptive technologies and their intersection with information security. This research includes new approaches to difficult security problems and the safety, security, and privacy of artificial intelligence. Nathan is passionate about risks at the intersection of technology and humanity and shares his thoughts on his blog, Perilous.tech. During his nearly 25 years in cybersecurity, he has been a regular public speaker, presenting his research at global security events, including Black Hat, DEF CON, HOPE, ShmooCon, SecTor, ToorCon, and many others. He is also a veteran member of the Black Hat review board, serving as the AI, ML, and Data Science track lead.</p>
             <p><b>Talk: </b><a href="/schedule/#T8">Alice in Generative AI Land</a></p>
@@ -127,7 +127,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S10'>Ralph Hittell</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/ralphHittell.jpg" alt="Ralph Hittell" width="500" height="600"></td>
         <td>
             <p>As the Lead Offensive Security Engineer at Grainger, I specialize in penetration testing, advanced threat hunting, and validating detection controls. My role involves simulating high-risk threats, managing third-party security engagements, and enhancing our cybersecurity posture through continuous improvement and strategic defense initiatives.</p>
             <p><b>Talk: </b><a href="/schedule/#T13">From Intelligence to Action: CTI-Driven Red Teaming</a></p>
@@ -137,7 +137,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S11'>Rebecca Hughes</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/rebeccaHughes.jpg" alt="Rebecca Hughes" width="500" height="600"></td>
         <td>
             <p>With over a decade of experience in storytelling with data, analytics and compliance, Rebecca Hughes has a proven track record of identifying inefficiencies and bottlenecks, and developing innovative tools to mitigate them. Leveraging a Master’s in Forensic Psychology from Arizona State, she works to bring a human element to the world of Cybersecurity, and believes that understanding the person behind the program is the key to a strong security posture. Although she enjoys a hands-on work experience, she views her greatest role as being a people leader and culture champion.</p>
             <p>Currently she is responsible for developing and implementing an efficient and strong IT Governance, Risk, and Compliance (GRC) program at VyStar CU, where she also oversees all aspects of Security Awareness training. This professional challenge engaged her passion to see the motive behind the method and has energized her to develop a top-tier Security Awareness program that brings evidence-based methodology together with engaging training resources.</p>
@@ -145,10 +145,10 @@ classes: wide
         </td>
     </tr>
     <tr>
-        <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S12'>Roland</td>
+        <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S12'>Roland Heintze</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/bio-photo.jpg" alt="Bio Photo Placeholder" width="500" height="600"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/rolandHeintze.jpg" alt="Roland Heintze" width="500" height="600"></td>
         <td>
             <p>A senior developer & technical lead that works in DevSecOps & application development for federal agencies.</p>
             <p><b>Talk: </b><a href="/schedule/#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a></p>

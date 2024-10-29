@@ -32,13 +32,13 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:30-10:30</td>
-        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: <a href="#K1">KEYNOTE</a><br>Jason E. Street</td> <!-- TODO: Keynote Title -->
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: <a href="#K1">KEYNOTE</a><br>Jayson E. Street</td> <!-- TODO: Keynote Title -->
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:30-11:30</td>
         <td><a href="#T1">AL, AI, and Sigma: Automating Threat Hunting With OpenAI</a><br><br>@Astacilauskas</td> <!-- TODO: Do we have a different name -->
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T2">Tales From The Vault</a><br><br>Jennifer Shannon</td>
-        <td><a href="#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland</td> <!-- TODO: Add last name -->
+        <td><a href="#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland Heintze</td>
         <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>
             <a href="https://bsidesjax2024.ctfd.io/">Capture&nbsp;The&nbsp;Flag</a><br><br>
             Lockpick&nbsp;Village<br><br>
@@ -87,7 +87,7 @@ classes: wide
     <tr>
         <td>
             <p>Topic To Be Announced</p>
-            Speaker: Jason E. Street
+            Speaker: Jayson E. Street
         </td>
     </tr>
 </table>
@@ -122,7 +122,7 @@ classes: wide
     <tr>
         <td>
             <p>A discussion about cross-collaboration for software developers & pentesters.</p>
-            <p><b>Speaker: </b><a href="#">Roland</a></p>
+            <p><b>Speaker: </b><a href="#">Roland Heintze</a></p>
         </td>
     </tr>
     <tr>
