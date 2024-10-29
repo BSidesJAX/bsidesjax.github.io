@@ -13,7 +13,7 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='K1'>Jayson E. Street</td>
     </tr>
     <tr>
-        <td><img src="https://jaysonestreet.com/imgs/nl.webp" alt="Jayson E. Street" width="400" height="500"></td>
+        <td style="vertical-align:top;"><img src="https://jaysonestreet.com/imgs/nl.webp" alt="Jayson E. Street" width="500" height="600"></td>
         <td>
             <p><b>Jayson E. Street referred to in the past as:</b><br>A "notorious hacker" by FOX25 Boston, "World Class Hacker" by National Geographic Breakthrough Series and described as a "paunchy hacker" by Rolling Stone Magazine. He however prefers if people refer to him simply as a Hacker, Helper & Human.</p>
             <p>He's a Simulated Adversary for hire. The author of the "Dissecting the hack: Series" (which is currently required reading at 5 colleges in 3 countries that he knows of). Also the DEF CON Groups Global Ambassador. He's spoken at DEF CON, DEF CON China, GRRCon, DerbyCon at several other 'CONs & colleges on a variety of Information Security subjects. He was also a guest lecturer for the Beijing Institute of Technology for 10 years.</p>
