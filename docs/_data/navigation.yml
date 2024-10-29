@@ -9,14 +9,14 @@ main:
     url: /workshops/
   #- title: "Posts"
   #  url: /posts/
-  #- title: "Schedule"
-  #  url: /schedule/
+  - title: "Schedule"
+    url: /schedule/
   #- title: "Floor Plan"
   #  url: /map/
   - title: "FAQ"
     url: /faq/
-  #- title: "CTF"
-  #  url: "https://bsidesjax2024.ctfd.io/"
+  - title: "CTF"
+    url: "https://bsidesjax2024.ctfd.io/"
   #- title: "Badges"
   #  url: "https://github.com/blackandwhitehat/BSidesJAX_2023_Badge"
   - title: "Sponsors"
