@@ -1,16 +1,18 @@
 main:
   - title: "Home"
     url: /
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Workshops"
+    url: /workshops/
   - title: "Volunteer"
     url: /volunteer/
   - title: "Tickets"
     url: "https://www.eventbrite.com/e/bsides-jacksonville-2024-registration-900824860407?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
-  - title: "Workshops"
-    url: /workshops/
   #- title: "Posts"
   #  url: /posts/
-  - title: "Schedule"
-    url: /schedule/
   #- title: "Floor Plan"
   #  url: /map/
   - title: "FAQ"
