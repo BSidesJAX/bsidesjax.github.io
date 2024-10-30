@@ -153,7 +153,7 @@ classes: wide
             <p>This session isn’t a hands-on workshop, but you’re welcome to follow along on your laptop as instructions for the setup will be provided. Please note, we won’t pause for troubleshooting, but feel free to experiment as we go.</p>
             <p>What You'll Need to Know:<br>Basic familiarity with Docker (or any container system)<br>Linux fundamentals</P>
             <p>What You'll Want to Have:<br>A laptop<br>Docker installed on your laptop, or access to a remote server or VPS with Docker</p>
-            <p><b>Speaker: </b><a href="#">Christian McLaughlin</a></p>
+            <p><b>Speaker: </b><a href="/speakers/#S4">Christian McLaughlin</a></p>
         </td>
     </tr>
     <tr>
