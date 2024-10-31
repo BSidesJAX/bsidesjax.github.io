@@ -42,7 +42,8 @@ classes: wide
         <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>
             <a href="https://bsidesjax2024.ctfd.io/">Capture&nbsp;The&nbsp;Flag</a><br><br>
             Lockpick&nbsp;Village<br><br>
-            Soldering&nbsp;Village<br>
+            Soldering&nbsp;Village<br><br>
+            HamRadio&nbsp;Testing&nbsp;(13:30-15:30)<br>
         </td>
     </tr>
     <tr>
