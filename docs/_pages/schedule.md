@@ -79,6 +79,7 @@ classes: wide
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
+<!-- TODO: Add Keynote title and abstract //
 <h2>Keynote</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
@@ -86,11 +87,12 @@ classes: wide
     </tr>
     <tr>
         <td>
-            <p>Topic To Be Announced</p><!-- TODO: Keynote Title and Abstract-->
+            <p>Topic To Be Announced</p>
             Speaker: <a href="/speakers/#K1">Jayson E. Street</a>
         </td>
     </tr>
 </table>
+//-->
 <h2>Talks</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
