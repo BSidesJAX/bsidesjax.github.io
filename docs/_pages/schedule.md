@@ -41,9 +41,9 @@ classes: wide
         <td><a href="#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland Heintze</td>
         <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>
             <a href="/events/#E1">Capture&nbsp;The&nbsp;Flag</a><br><br>
-            Lockpick&nbsp;Village<br><br>
-            Soldering&nbsp;Village<br><br>
-            Wireless&nbsp;Village<br><br>
+            <a href="/events/#E2">Lockpick&nbsp;Village</a><br><br>
+            <a href="/events/#E3">Soldering&nbsp;Village</a><br><br>
+            <a href="/events/#E4">Wireless&nbsp;Village</a><br><br>
             Ham&nbsp;Radio&nbsp;Testing<br>(13:30-15:30)<br>
         </td>
     </tr>
