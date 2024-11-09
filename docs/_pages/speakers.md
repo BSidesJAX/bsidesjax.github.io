@@ -124,6 +124,17 @@ classes: wide
         </td>
     </tr>
     <tr>
+        <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S14'>Philippe Caturegli </td>
+    </tr>
+    <tr>
+        <td style="vertical-align:top;"><img src="../assets/images/philippeCaturegli.png" alt="Philippe Caturegli" width="600" height="700"></td>
+        <td>
+            <p>Philippe has over 25 years of experience in building, defending, and attacking across all areas of Information Security. He's been performing penetration tests since the early 2000s, gaining deep expertise across diverse security landscapes. In 2012, he founded Seralys, a boutique cybersecurity company specializing in high value add penetration testing engagements, serving clients in both Europe and North America.</p>
+            <p>Before Seralys, Philippe was a Senior Manager at a Big 4 firm in Luxembourg, where he led Security & Privacy engagements, primarily with financial institutions. Earlier in his career, he held several roles within the information system security department of a global pharmaceutical company in London, managing a heterogeneous network of over 100,000 users under strict regulatory requirements.</p>
+            <p><b>Talk: </b><a href="/schedule/#T16">Internal Domain Name Collision 2.0</a></p>
+        </td>
+    </tr>
+    <tr>
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S10'>Ralph Hittell</td>
     </tr>
     <tr>

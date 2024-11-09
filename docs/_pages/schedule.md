@@ -10,7 +10,7 @@ classes: wide
 
 :bangbang: **NOTICE**: All Talks and Events are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: Please check the posted schedule for updates. The schedule is subject to change.<br>
-<!-- TODO: Get confirm on HT and uncomment // :star: The schedule is also available via [HackerTracker](https://hackertracker.app/) on your mobile device. //END//-->
+:star: The schedule is also available via [HackerTracker](https://hackertracker.app/)
 {: .notice--danger}
 
 {::nomarkdown}
@@ -32,7 +32,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:30-10:30</td>
-        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote: <a href="#K1">KEYNOTE</a><br>Jayson E. Street</td> <!-- TODO: Keynote Title -->
+        <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote Adress by <a href="/speakers/#K1">Jayson E. Street</a></td> <!-- TODO: Keynote Title -->
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:30-11:30</td>
@@ -40,15 +40,15 @@ classes: wide
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T2">Tales From The Vault</a><br><br>Jennifer Shannon</td>
         <td><a href="#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland Heintze</td>
         <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>
-            <a href="https://bsidesjax2024.ctfd.io/">Capture&nbsp;The&nbsp;Flag</a><br><br>
+            <a href="/events/#E1">Capture&nbsp;The&nbsp;Flag</a><br><br>
             Lockpick&nbsp;Village<br><br>
             Soldering&nbsp;Village<br><br>
-            HamRadio&nbsp;Testing&nbsp;(13:30-15:30)<br>
+            Ham&nbsp;Radio&nbsp;Testing<br>(13:30-15:30)<br>
         </td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:30-12:30</td>
-        <td><a href="#T4">Jacksonville Women in Technology Panel Discussion</a><br>Topic: TBD</td> <!-- TODO: Add panel topic -->
+        <td><a href="#T4">Jacksonville Women in Technology Panel Discussion</a></td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T5">API Security Fundamentals</a><br><br>Craig Galley</td>
         <td><a href="#T6">Lets Build a Soc Puppet: Standing Up Your Own Security Operations Center at Home</a><br><br>Christian McLaughlin</td>
     </tr>
@@ -58,7 +58,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:30-14:30</td>
-        <td><a href="#T7">CISO Panel Discussion</A><br>Topic: TBD</a></td> <!-- TODO: Add panel topic -->
+        <td><a href="#T7">CISO Panel Discussion</a></td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Alice in Generative AI Land</a><br><br>Nathan Hamiel</td>
         <td><a href="#T9">Passkeys: The Good, the Bad and the Ugly</a><br><br>Champ Clark</td>
     </tr>
@@ -79,20 +79,18 @@ classes: wide
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
-<!-- TODO: Add keynoate abstract
 <h2>Keynote</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='K1'>KEYNOTE</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='K1'>Keynote Adress</td>
     </tr>
     <tr>
         <td>
-            <p>Topic To Be Announced</p>
-            Speaker: Jayson E. Street
+            <p>Topic To Be Announced</p><!-- TODO: Keynote Title and Abstract-->
+            Speaker: <a href="/speakers/#K1">Jayson E. Street</a>
         </td>
     </tr>
 </table>
-//-->
 <h2>Talks</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
@@ -132,7 +130,7 @@ classes: wide
     <tr>
         <td>
             <p>Insert awesome talk abstract here</p>
-            <p>Moderator:  TBD</p> <!-- TODO: Who is moderating WIT? -->
+            <p>Moderator: Matthew Parks</p>
         </td>
     </tr>
     <tr>
