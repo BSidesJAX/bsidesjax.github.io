@@ -10,7 +10,7 @@ classes: wide
 
 :bangbang: **NOTICE**: All Talks and Events are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: Please check the posted schedule for updates. The schedule is subject to change.<br>
-:star: The schedule is also available via [HackerTracker](https://hackertracker.app/)
+:star: The schedule is also available on [HackerTracker.app](https://hackertracker.app/schedule/?conf=BSIDESJAX2024)
 {: .notice--danger}
 
 {::nomarkdown}
@@ -43,6 +43,7 @@ classes: wide
             <a href="/events/#E1">Capture&nbsp;The&nbsp;Flag</a><br><br>
             Lockpick&nbsp;Village<br><br>
             Soldering&nbsp;Village<br><br>
+            Wireless&nbsp;Village<br><br>
             Ham&nbsp;Radio&nbsp;Testing<br>(13:30-15:30)<br>
         </td>
     </tr>
@@ -54,7 +55,8 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>12:30-13:30</td>
-        <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Lunch</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T16">Internal Domain Name Collision 2.0</a><br><br>Philippe Caturegli</td>
+        <td colspan="2" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Lunch</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:30-14:30</td>
@@ -247,6 +249,15 @@ classes: wide
             <p>Cybersecurity professionals attending this session will gain valuable insights and factual knowledge to optimize their security awareness programs.These programs aim to reduce internal threat potential by leveraging the human element effectively.</p>
             <p>Join us to discover how to transform your security training from mundane to impactful, ensuring your organization stays one step ahead of potential threats.</p>
             <p><b>Speaker: </b><a href="/speakers/#S11">Rebecca Hughes</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T16'>Internal Domain Name Collision 2.0</td>
+    </tr>
+    <tr>
+        <td>
+            <p>The proliferation of new Top-Level Domains (TLDs) has sparked security concerns primarily around phishing and social engineering attacks. However, the emergence of these new TLDs has broadened the attack surface, making it easier for threat actors to exploit other domain-related vulnerabilities. Our research explored another critical but often overlooked vulnerability: Internal Domain Name Collision. During our research, we examined how legacy systems configured before the TLD boom can become susceptible to these collisions, potentially allowing threat actors to redirect or intercept sensitive internal traffic. This vulnerability can have a ripple effect, impacting even newly installed systems that rely on configurations from those legacy systems (e.g. DHCP, DNS Suffix, etc.). This presentation will showcase our methodology for identifying vulnerable domains and present real-world examples of high-value targets at risk, including a major European city, a US Police Department, and critical infrastructure companies.</p>
+            <p><b>Speaker: </b><a href="/speakers/#S14">Philippe Caturegli</a></p>
         </td>
     </tr>
 </table>
