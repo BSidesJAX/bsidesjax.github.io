@@ -26,14 +26,14 @@ classes: wide
     <tr>
         <td style="vertical-align:top;"><img src="../assets/images/foxpick.jpg" alt="Fox Pick" width="500" height="700"></td>
         <td>
-            <p>Awsome event details will go here</p><!-- TODO: Get LockPick Description-->
+            <p> Ready to test your skills? The Lockpick Village is your playground. Learn from the pros at <a href="https://twitter.com/fox_pick"@Fox_Pick</a>, try your luck at various locks, and discover the secrets behind physical security. It's a fun and informative way to bolster your security expertise."Here you could learn how to pick locks and participate in fun contests.</p>
         </td>
     </tr>
     <tr>
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E3'>Soldering Village</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/header-web.jpg" alt="Hydra" width="500" height="700"></td><!-- TODO: Get HHV Pic-->
+        <td style="vertical-align:top;"><img src="../assets/images/header-web.jpg" alt="Hydra" width="500" height="700"></td>
         <td>
             <p>The Soldering Village (a.k.a. Hardware Hacking Village) is where you can learn to solder your badge.</p>
             <p>In celebration of BSidesJAX's 10th anniversary, the artwork and badges this year proudly feature a 10-headed hydra — Us. But this is more than just a symbol; it’s an invitation. You have the chance to meet all 10 of our unique personalities by completing the official badge challenge, Hydra.</p>
