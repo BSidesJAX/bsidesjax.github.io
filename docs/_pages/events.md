@@ -26,7 +26,7 @@ classes: wide
     <tr>
         <td style="vertical-align:top;"><img src="../assets/images/foxpick.jpg" alt="Fox Pick" width="500" height="700"></td>
         <td>
-            <p> Ready to test your skills? The Lockpick Village is your playground. Learn from the pros at <a href="https://twitter.com/fox_pick"@Fox_Pick</a>, try your luck at various locks, and discover the secrets behind physical security. It's a fun and informative way to bolster your security expertise."Here you could learn how to pick locks and participate in fun contests.</p>
+            <p> Ready to test your skills? The Lockpick Village is your playground. Learn from the pros at <a href="https://twitter.com/fox_pick">@Fox_Pick</a>, try your luck at various locks, and discover the secrets behind physical security. It's a fun and informative way to bolster your security expertise."Here you could learn how to pick locks and participate in fun contests.</p>
         </td>
     </tr>
     <tr>
