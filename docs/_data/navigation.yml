@@ -5,6 +5,8 @@ main:
     url: /schedule/
   - title: "Speakers"
     url: /speakers/
+  - title: "Events"
+    url: /events/
   - title: "Workshops"
     url: /workshops/
   - title: "Volunteer"
