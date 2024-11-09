@@ -13,10 +13,10 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E1'>Capture The Flag (CTF)</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="#" alt="#" width="700" height="800"></td><!-- TODO: Get CTF Pic-->
+        <td style="vertical-align:top;"><img src="../assets/images/redmagesec_flame.png" alt="#" width="800" height="800"></td><!-- TODO: Get CTF Pic-->
         <td>
-            <p>The CTF will showcase a diverse range of challenges with varying difficulties, ensuring there's something for everyone, regardless of your skill level.</P>
-            <p>Additional details and registration links will be posted here, closer to the event.</p>
+            <p>The CTF will showcase a diverse range of over 30 challenges with varying difficulties, ensuring there's something for everyone, regardless of your skill level.</P>
+            <p>Registration will be availible onsite only. </p>
         </td>
     </tr>
     <tr>
