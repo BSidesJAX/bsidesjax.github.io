@@ -39,7 +39,7 @@ classes: wide
         <td><a href="#T1">AL, AI, and Sigma: Automating Threat Hunting With OpenAI</a><br><br>@Astacilauskas</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T2">Tales From The Vault</a><br><br>Jennifer Shannon</td>
         <td><a href="#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland Heintze</td>
-        <td rowspan="6" style='border-left-style:dotted; border-width:thin;'>
+        <td rowspan="6" style='border-left-style:dotted; border-right-style:dotted; border-width:thin;'>
             <a href="/events/#E1">Capture&nbsp;The&nbsp;Flag</a><br><br>
             <a href="/events/#E2">Lockpick&nbsp;Village</a><br><br>
             <a href="/events/#E3">Soldering&nbsp;Village</a><br><br>
@@ -77,7 +77,7 @@ classes: wide
         <td><a href="T15#">Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness</a><br><br>Rebecca Hughes</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>17:00-17:50</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>17:00-17:30</td>
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
