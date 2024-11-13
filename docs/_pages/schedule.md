@@ -23,19 +23,19 @@ classes: wide
         <th colspan="2" style='background-color:#D5D8DC; text-align:center; vertical-align:middle'>Events</th>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-top-style:solid; border-width:thin;'>08:30-09:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-top-style:solid; border-width:thin;'>09:30-09:45</td>
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle border-top-style:solid;'>Registration</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:00-09:30</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:45-10:00</td>
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Opening Ceremonies</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>09:30-10:30</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:00-11:00</td>
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote Adress by <a href="/speakers/#K1">Jayson E. Street</a></td> <!-- TODO: Keynote Title -->
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:30-11:30</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:00-12:00</td>
         <td><a href="#T1">AL, AI, and Sigma: Automating Threat Hunting With OpenAI</a><br><br>@Astacilauskas</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T2">Tales From The Vault</a><br><br>Jennifer Shannon</td>
         <td><a href="#T3">Developer & Hacker Harmony: The Nuances of Cybersecurity</a><br><br>Roland Heintze</td>
@@ -48,36 +48,36 @@ classes: wide
         </td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:30-12:30</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>12:00-13:00</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T16">Internal Domain Name Collision 2.0</a><br><br>Philippe Caturegli</td>
+        <td colspan="2" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Lunch</td>
+    </tr>
+    <tr>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:00-14:00</td>
         <td><a href="#T4">Jacksonville Women in Technology Panel Discussion</a></td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T5">API Security Fundamentals</a><br><br>Craig Galley</td>
         <td><a href="#T6">Lets Build a Soc Puppet: Standing Up Your Own Security Operations Center at Home</a><br><br>Christian McLaughlin</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>12:30-13:30</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T16">Internal Domain Name Collision 2.0</a><br><br>Philippe Caturegli</td>
-        <td colspan="2" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Lunch</td>
-    </tr>
-    <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>13:30-14:30</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:00-15:00</td>
         <td><a href="#T7">CISO Panel Discussion</a></td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Alice in Generative AI Land</a><br><br>Nathan Hamiel</td>
         <td><a href="#T9">Passkeys: The Good, the Bad and the Ugly</a><br><br>Champ Clark</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:30-15:30</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:00-16:00</td>
         <td><a href="#T10">Exploiting Token Based Authentication: Attacking and Defending Identities in the 2020s</a><br><br>DrAzureAD</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T11">Incident Response for the Ovewhelmed, Understaffed and Unprepared</a><br><br>Tony Drake</td>
         <td><a href="#T12">Using Analytics to hack Applicant Tracking Systems (ATS)</a><br><br>Brandi Kiehl</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:30-16:30</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-17:00</td>
         <td><a href="#T13">From Intelligence to Action: CTI-Driven Red Teaming</a><br><br>Ralph Hittell</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T14">Secure by Demand</a><br><br>Kirby Wedekind</td>
         <td><a href="T15#">Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness</a><br><br>Rebecca Hughes</td>
     </tr>
     <tr>
-        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:30-17:00</td>
+        <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>17:00-17:50</td>
         <td colspan="5" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Closing Ceremonies</td>
     </tr>
 </table>
