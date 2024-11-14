@@ -32,7 +32,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>10:00-11:00</td>
-        <td colspan="3" style='background-color:#F2F3F4; text-align:center; vertical-align:middle'>Keynote Adress by <a href="/speakers/#K1">Jayson E. Street</a></td> <!-- TODO: Keynote Title -->
+        <td colspan="3" style='background-color:#F2F3F4; border-right-style:dotted; border-left-style:dotted; border-width:thin; text-align:center; vertical-align:middle'>Keynote Adress by <a href="/speakers/#K1">Jayson E. Street</a></td> <!-- TODO: Keynote Title -->
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:00-12:00</td>
