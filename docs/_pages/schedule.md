@@ -74,7 +74,7 @@ classes: wide
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-17:00</td>
         <td><a href="#T13">From Intelligence to Action: CTI-Driven Red Teaming</a><br><br>Ralph Hittell</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T14">Secure by Demand</a><br><br>Kirby Wedekind</td>
-        <td><a href="T15#">Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness</a><br><br>Rebecca Hughes</td>
+        <td><a href="#T15">Cyber Psychology: Harnessing Behavioral Analysis for Security Awareness</a><br><br>Rebecca Hughes</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>17:00-17:30</td>
