@@ -18,7 +18,7 @@ email: info@bsidesjax.org
 description: >- # this means to ignore newlines until "baseurl:"
   BSides Jacksonville is an independent BSides event that is put on by dedicated volunteers
 twitter_username: BsidesJAX
-github_username: username
+github_username: lewta
 minimal_mistakes_skin: contrast # color variations default, air, contrast, dark, neon "https://github.com/mmistakes/minimal-mistakes#skins-color-variations"
 search: true
 
@@ -62,19 +62,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ohp3x"
+  name   : "lewta"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.themachineryofnight.com/"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://www.themachineryofnight.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ohp3x/"
+      url: "https://twitter.com/lewtakris/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ohp3x/"
+      url: "https://github.com/lewta/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
