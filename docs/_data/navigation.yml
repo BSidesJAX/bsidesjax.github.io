@@ -1,29 +1,29 @@
 main:
   #- title: "Home"
   #  url: /
-  - title: "Schedule"
-    url: /schedule/
+  - title: "About"
+    url: /about/
+  - title: "Sponsors"
+    url: /sponsors/
+  #- title: "Schedule"
+  #  url: /schedule/
   - title: "Speakers"
     url: /speakers/
-  - title: "Events"
-    url: /events/
-  - title: "Workshops"
-    url: /workshops/
-  - title: "Volunteer"
-    url: /volunteer/
-  - title: "Tickets"
-    url: "https://www.eventbrite.com/e/bsides-jacksonville-2024-registration-900824860407?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+  #- title: "Events"
+  #  url: /events/
+  #- title: "Workshops"
+  #  url: /workshops/
+  #- title: "Volunteer"
+  #  url: /volunteer/
+  #- title: "Tickets"
+  #  url: "https://www.eventbrite.com/e/bsides-jacksonville-2024-registration-900824860407?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
   #- title: "Posts"
   #  url: /posts/
   #- title: "Floor Plan"
   #  url: /map/
-  - title: "FAQ"
-    url: /faq/
+  #- title: "FAQ"
+  #  url: /faq/
   #- title: "CTF"
-  #  url: "https://bsidesjax2024.ctfd.io/"
+  #  url: /ctf/ # TODO: Add CTF Page
   #- title: "Badges"
   #  url: "https://github.com/blackandwhitehat/BSidesJAX_2023_Badge"
-  - title: "Sponsors"
-    url: /sponsors/
-  - title: "About"
-    url: /about/

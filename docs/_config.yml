@@ -16,17 +16,18 @@
 title: BSides Jacksonville
 email: info@bsidesjax.org
 description: >- # this means to ignore newlines until "baseurl:"
-  BSides Jacksonville is an independent BSides event that is put on by dedicated volunteers
+  BSides Jacksonville is an independent BSides event that is put on by dedicated volunteers in Jacksonville, Florida.
 twitter_username: BsidesJAX
-github_username: username
-minimal_mistakes_skin: contrast # color variations default, air, contrast, dark, neon "https://github.com/mmistakes/minimal-mistakes#skins-color-variations"
+github_username: BsidesJAX
+minimal_mistakes_skin: default # color variations default, air, contrast, dark, neon "https://github.com/mmistakes/minimal-mistakes#skins-color-variations"
 search: true
+favicon: "/favicon.ico"
 
 # Added items
-logo: /assets/images/hydra_logo_circle_small.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: # seperate masthead title from the site title
+logo: /assets/images/header.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title: " " # seperate masthead title from the site title
 teaser: # /assets/images/500x300.jpg # a fallback teaser image used in the “Related Posts” module, place a graphic in the /assets/images/ directory and add the filename
-subtitle: # A short tagline that appears below the title in site masthead.
+subtitle: " " # A short tagline that appears below the title in site masthead.
 
 # Build settings
 markdown: kramdown
@@ -35,7 +36,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/New_York" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -62,19 +63,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ohp3x"
+  name   : "lewta"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.themachineryofnight.com/"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://www.themachineryofnight.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ohp3x/"
+      url: "https://twitter.com/lewtakris/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ohp3x/"
+      url: "https://github.com/lewta/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"

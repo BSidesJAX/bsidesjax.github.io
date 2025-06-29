@@ -1,0 +1,10 @@
+# Robots.txt file for bsidesjax.org
+
+User-agent: *
+Sitemap: https://bsidesjax.org/sitemap.xml
+
+Disallow: /tags/?*
+Disallow: /categories/?*
+Disallow: /search/?*
+Disallow: /feed/?*
+

@@ -1,3 +1,7 @@
-# Security BSides Jacksonville 2023
+# Security BSides Jacksonville Event Site
 
-Sourced from the Minimal Mistakes remote theme starter [termplate](https://github.com/mmistakes/mm-github-pages-starter/generate)
+To run locally use Docker Compose with the following commands:
+
+```bash
+docker compose up
+```
