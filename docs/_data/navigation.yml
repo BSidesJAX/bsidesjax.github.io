@@ -1,10 +1,14 @@
 main:
   #- title: "Home"
   #  url: /
+  - title: "About"
+    url: /about/
+  - title: "Sponsors"
+    url: /sponsors/
   #- title: "Schedule"
   #  url: /schedule/
-  #- title: "Speakers"
-  #  url: /speakers/
+  - title: "Speakers"
+    url: /speakers/
   #- title: "Events"
   #  url: /events/
   #- title: "Workshops"
@@ -20,10 +24,6 @@ main:
   #- title: "FAQ"
   #  url: /faq/
   #- title: "CTF"
-  #  url: "https://#"
+  #  url: /ctf/ # TODO: Add CTF Page
   #- title: "Badges"
   #  url: "https://github.com/blackandwhitehat/BSidesJAX_2023_Badge"
-  - title: "About"
-    url: /about/
-  - title: "Sponsors"
-    url: /sponsors/
