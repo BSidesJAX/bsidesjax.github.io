@@ -1,8 +1,6 @@
 ---
 title: "Save The Date!"
-tags:
-  - dates
-  - about 2025
+tag: "2025"
 author_profile: false
 ---
 
