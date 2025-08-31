@@ -4,7 +4,8 @@ tag: "Event Update"
 author_profile: false
 ---
 
-<b>Gina Yacone</b><br>
+**Gina Yacone**
+
 Keynote Speaker, BSides Jacksonville 2025.
 
 ![image-center](../assets/images/speakers/Gina_Yacone_keynote.jpeg)
