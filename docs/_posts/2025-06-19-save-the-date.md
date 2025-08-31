@@ -8,5 +8,3 @@ BSides JAX 2025 will be held on November 14th and 15th at the University of Nort
 
 - Training will be held on November 14th.
 - The conference will be held on November 15th.
-
-
