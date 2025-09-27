@@ -1,6 +1,6 @@
 ---
 title: "Keynote Speaker Announcement"
-tag: "Event Update"
+tags: ["Event Update", "2025", "Keynote"]
 author_profile: false
 ---
 
