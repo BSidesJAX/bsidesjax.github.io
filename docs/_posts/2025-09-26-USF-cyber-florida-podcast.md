@@ -1,12 +1,12 @@
 ---
-title: "The 'No Password Required' Podcast is Coming to BSides Jacksonville!"
-tag: "Event Update"
+title: "The 'No Password Required' Podcast will be at BSides Jacksonville!"
+tags: ["Event Update", "2025", "Special Event", "Podcast"]
 author_profile: false
 ---
 
-![image-center](../assets/images/events/No_Password_2024_clean-APPLE_GREENS.png)
-
 We're excited to announce that the crew from Cyber Florida's popular "No Password Required" podcast will be joining us at BSides Jacksonville on November 15th for a special live recording session!
+
+![image-center](../assets/images/events/No_Password_2024_clean-APPLE_GREENS.png)
 
 ## What to Expect
 
