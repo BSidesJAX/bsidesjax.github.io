@@ -15,8 +15,8 @@ main:
   #  url: /workshops/
   - title: "Volunteers"
     url: /volunteer/
-  #- title: "Tickets"
-  #  url: "https://www.eventbrite.com/e/bsides-jacksonville-2024-registration-900824860407?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+  - title: "Tickets"
+    url: "/tickets-on-sale-now/"
   #- title: "Posts"
   #  url: /posts/
   #- title: "Floor Plan"
