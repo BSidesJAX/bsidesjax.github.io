@@ -27,6 +27,122 @@ classes: wide
         </td>
     </tr>
 </table>
+<h2>Speakers</h2>
+<table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S2'>Arsh Arora</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S3'>Carmen Estrella</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S4'>Christian McLaughlin</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S5'>Eyal Wirsansky</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S6'>George Raileanu</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S7'>Jennifer, Kathy, and Kelly</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S8'>Kyle</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S10'>Madeline Sedgwick</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S9'>Nathan Hamiel</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S11'>Souryadip Sengupta</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S12'>Spence</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S13'>TJ Zimmer</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S1'>Timothy De Block</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    <tr>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='S14'>Trishatrying</td>
+    </tr>
+    <tr>
+        <td>
+            <p>Bio coming soon.</p>
+        </td>
+    </tr>
+    
+</table>
 <!-- TODO: Add speakers
 <h2>Speakers</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">

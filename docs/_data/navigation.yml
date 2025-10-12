@@ -3,20 +3,20 @@ main:
   #  url: /
   - title: "About"
     url: /about/
-  - title: "Sponsors"
-    url: /sponsors/
-  #- title: "Schedule"
-  #  url: /schedule/
+  - title: "Tickets"
+    url: "/tickets-on-sale-now/"
+  - title: "Schedule"
+    url: /schedule/
   - title: "Speakers"
     url: /speakers/
   #- title: "Events"
   #  url: /events/
   #- title: "Workshops"
   #  url: /workshops/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "Volunteers"
     url: /volunteer/
-  - title: "Tickets"
-    url: "/tickets-on-sale-now/"
   #- title: "Posts"
   #  url: /posts/
   #- title: "Floor Plan"
