@@ -5,8 +5,10 @@ main:
     url: /about/
   - title: "Tickets"
     url: "/tickets-on-sale-now/"
-  - title: "Schedule"
-    url: /schedule/
+  - title: "Training"
+    url: /training/
+  - title: "Talks"
+    url: /talks/
   - title: "Speakers"
     url: /speakers/
   #- title: "Events"

@@ -1,12 +1,12 @@
 ---
-permalink: /schedule/
-title: "Schedule - November 15th 2025"
+permalink: /Talks/
+title: "Talks - November 15th 2025"
 author_profile: false
 layout: splash
 classes: wide
 ---
 
-# Schedule - November 15th 2025
+# Talk Schedule - November 15th 2025
 
 :bangbang: **NOTICE**: All Talks and Events are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: Please check the posted schedule for updates. The schedule is subject to change.<br>
@@ -59,13 +59,13 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:00-15:00</td>
-        <td><a href="#T7">Women In Technology (WIT) Pannel</a><br><br>TBD</td>
+        <td><a href="#T7">Women In Technology (WIT) Pannel: Paranoia</a><br><br>Moderated by Brandi Kiehl</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Building Better Security Tooling: Using Human Centered Design to Build and Deploy Effective Security Tools</a><br><br>Spence</td>
         <td><a href="#T9">Prompt Engineering 101: Practical AI Skills for the Security Professional</a><br><br>George Raileanu</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:00-16:00</td>
-        <td><a href="#T10">CISO Panel</a><br><br>TBD</td>
+        <td><a href="#T10">CISO Panel</a><br><br>Moderated by Taryn Swietek</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T11">Making Your Analytics Make Sense</a><br><br>Trishatrying</td>
         <td><a href="#T12">Guardians of Tomorrow: AI, Risk, and The Human Element</a><br><br>Nathan Hamiel</td>
     </tr>
@@ -78,7 +78,7 @@ classes: wide
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>17:00-18:00</td>
         <td><a href="#T16">Build it, Break it, Harden it, Repeat! Learning DevSecOps Skills at Home to Boost Your Resume!</a><br><br>Christian McLaughlin</td>
-        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T17">3D Shader Programing on Shadertoy</a><br><br>Kyle</td>
+        <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T17">3D Shader Programing on Shadertoy</a><br><br>Kyle Pena</td>
         <td><a href="#T18">The Algorithmic Self: Reclaiming Identity in an AI-Driven World</a><br><br>Carmen Estrella</td>
     </tr>    
     <tr>
@@ -162,7 +162,16 @@ classes: wide
     <tr>
         <td>
             <p>Abstract TBD.</p>
-            <p><b>Speaker: </b>TBD</p>
+            <p>Panelists:
+            <ul>
+                <li>Taryn Swietek, Executive Cybersecurity & Risk Leader, Google)</li>
+                <li>Rebecca Hughes, VyStar</li>
+                <li>Vanessa, Microsoft</li>
+                <li>Dawn Carrie, CISO, Purecyber</li>
+                <li>Erika</li>
+            </ul>
+            </p>
+            <p><b>Moderator: </b>Brandi Kiehl</p>
         </td>
     </tr>
     <tr>
@@ -189,7 +198,15 @@ classes: wide
     <tr>
         <td>
             <p>Abstract TBD.</p>
-            <p><b>Speaker: </b>TBD</p>
+            <p>Panelists:
+            <ul>
+                <li>Greg Udell, CISO, Duval County Clerk of Courts</li>
+                <li>Jon West, CISO, Guidewell Source</li>
+                <li>Mike Green, CISO, Availity</li>
+                <li>Richard Richison, CISO, Repligen</li>
+            </ul>
+            </p>
+            <p><b>Moderator: </b>Taryn Swietek, Executive Cybersecurity & Risk Leader, Google</p>
         </td>
     </tr>
     <tr>
@@ -252,7 +269,7 @@ classes: wide
     <tr>
         <td>
             <p>Abstract TBD.</p>
-            <p><b>Speaker: </b><a href="/speakers/#S8">Kyle</a></p>
+            <p><b>Speaker: </b><a href="/speakers/#S8">Kyle Pena</a></p>
         </td>
     </tr>
     <tr>
