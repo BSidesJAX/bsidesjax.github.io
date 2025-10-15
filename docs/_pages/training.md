@@ -54,7 +54,7 @@ classes: wide
             <p><b>Trainer: </b>Christian McLaughlin<br>
             Christian McLaughlin is an Information Security Professional with over 13 years of combined professional experience in IT systems and avionics. Throughout his career, he has demonstrated expertise in offensive and defensive security, computer networking, automation, avionics, and aviation safety and maintenance.  After spending 8 years in the Naval Aviation, he transitioned to a civilian career in Information Security where he continued his passion for knowledge holding roles as a SOC Analyst, Security Researcher, Security Consultant and Security Engineer.  He is an advocate for teaching others about the awesome world of selfhosting. He advocates teaching others how to build homelabs for themselves and learning enterprise skills with free and open source software (FOSS).</p>
             <p><b>Requirements: </b>A Linux Laptop with the latest version of KVM installed (Lab VM instances can be provided to users with Windows or Mac devices however they will need an SSH Client)</p>
-            <p><b>Cost: </b>$100</p>
+            <p><b>Cost: </b>$200</p>
         </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@ classes: wide
             <p><b>Trainer: </b>Joshua Connolly<br>
             Joshua is a vulnerability researcher and reverse engineer with a passion for hacker education.</p>
             <p><b>Requirements: </b>Computer with Virtualbox installed</p>
-            <p><b>Cost: </b>$100</p>
+            <p><b>Cost: </b>$200</p>
         </td>
     </tr>
     <tr>
@@ -74,9 +74,12 @@ classes: wide
     </tr>
     <tr>
         <td>
-            <p>Abstract TBD.</p>
+            <p>This workshop takes you on a journey through the methodical process of web application penetration testing, equipping you with practical skills to uncover vulnerabilities that often remain hidden from plain sight. Like a careful burglar (I mean Hobbit), planning the perfect heist, you'll learn how to systematically approach security assessments with precision and purpose. Kevin Johnson will guide you through each phase of the testing lifecycle, sharing battle-tested techniques refined over years of testing applications and APIs.<br>
+            From initial reconnaissance and OSINT gathering to the careful mapping of attack surfaces, Kevin will demonstrate techniques that have successfully uncovered critical vulnerabilities in real-world applications. Drawing from his experience, he'll share war stories of unexpected discoveries—those precious "ring" moments where seemingly small findings led to significant security risk.<br>
+            Through hands-on demonstrations, you'll learn to move through systems with the stealth and cleverness of the most unlikely hero, identifying weaknesses that others have overlooked and developing the practical skills to document and communicate these findings effectively to development teams and stakeholders alike.</p>
             <p><b>Trainer: </b><a href="https://www.linkedin.com/in/kevinjohnson" target="_blank">Kevin Johnson</a><br>
-            .</p>
+            <p><b>Requirements: </b>TBD</p>
+            <p><b>Cost: </b>$200</p>
         </td>
     </tr>
     <tr>
@@ -88,7 +91,7 @@ classes: wide
             <p><b>Trainer: </b><a href="https://www.linkedin.com/in/rj-crandall/" target="_blank">RJ Crandall</a><br>
             RJ Crandall specializes in low-level software security training regarding the emulation, vulnerability discovery, and exploitation of embedded systems, operating systems, and application software. He has 10+ years of career experience in both national security and private industry, leading teams with dozens vulnerability researchers (VR) and reverse engineers (RE). In these roles, he also created interview processes and made hiring decisions. Attendees may leverage this experience to transition into the VR/RE industry or broaden their professional networks.  Previous training, instructional, and presentation experiences: * RE//verse 2025 Lightning Talk * Reverse Engineering for Interviews @ HackUCF * US Cyber Games Season II Senior Tech Mentor * "Bypassing the Upcoming Safe Linking Mitigation" blog post * Many other blog posts at Research Innovations, Inc (RII) * BSides Orlando 2024 Unconference Talk: “How to Teach Yourself VR/RE” * Many tech talks given at universities and local meetups around the country * Developed an administered company-internal mentoring plans for all new VR/RE engineers and a company-wide tech talk explaining what work the Cyber unit performs</p>
             <p><b>Requirements: </b> Laptop requirements: * Ability to run a 64-bit virtual machine * VM Specifications: * 4GB RAM * 50 GB Virtual Disk * 4 vCPUs * 2x USB 3.0 (xHCI) ports, concurrently * Tested with: * Ubuntu 24.04.3 LTS Host (AMD) * VirtualBox 7.1.12  Hardware kits will be loaned to attendees and available for purchase separately.</p>
-            <p><b>Cost: </b>$100</p>
+            <p><b>Cost: </b>$200</p>
         </td>
     </tr>
 </table>
