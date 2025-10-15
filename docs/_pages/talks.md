@@ -1,5 +1,5 @@
 ---
-permalink: /Talks/
+permalink: /talks/
 title: "Talks - November 15th 2025"
 author_profile: false
 layout: splash
@@ -49,7 +49,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>12:00-13:00</td>
-        <td><a href="#T4">Shifting Left and Right: A TMACApproach to Architects and Devs</a><br><br>Souryadip Sengupta</td>
+        <td><a href="#T10">CISO Panel</a><br><br>Moderated by Taryn Swietek</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T5">You won't belive what the client said!</a><br><br>Jennifer, Kathy, and Kelly</td>
         <td><a href="#T6">AI: Making Us Efficient, Lazy... or Just Efficiently Lazy?</a><br><br>Arsh Arora</td>
     </tr>
@@ -65,7 +65,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>15:00-16:00</td>
-        <td><a href="#T10">CISO Panel</a><br><br>Moderated by Taryn Swietek</td>
+        <td><a href="#T4">Shifting Left and Right: A TMACApproach to Architects and Devs</a><br><br>Souryadip Sengupta</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T11">Making Your Analytics Make Sense</a><br><br>Trishatrying</td>
         <td><a href="#T12">Guardians of Tomorrow: AI, Risk, and The Human Element</a><br><br>Nathan Hamiel</td>
     </tr>
@@ -161,7 +161,7 @@ classes: wide
     </tr>
     <tr>
         <td>
-            <p>Abstract TBD.</p>
+            <p>Topic: TBD.</p>
             <p>Panelists:
             <ul>
                 <li>Taryn Swietek, Executive Cybersecurity & Risk Leader, Google)</li>
@@ -204,6 +204,7 @@ classes: wide
                 <li>Jon West, CISO, Guidewell Source</li>
                 <li>Mike Green, CISO, Availity</li>
                 <li>Richard Richison, CISO, Repligen</li>
+                <li>Chris Gay, CISO, Acosta Group</li>
             </ul>
             </p>
             <p><b>Moderator: </b>Taryn Swietek, Executive Cybersecurity & Risk Leader, Google</p>
