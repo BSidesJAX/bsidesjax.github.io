@@ -25,7 +25,7 @@ Are you interested in being a sponsor for this year's event? Check out the [Spon
 
 <figure class="third">
 <figcaption>Silver Sponsors</figcaption>
-  <a href="https://www.https://cyberflorida.org/pod/" target="_blank"><img src="/assets/images/events/No_Password_2024_clean-APPLE_GREENS.png"></a>
+  <a href="https://cyberflorida.org/pod/" target="_blank"><img src="/assets/images/events/No_Password_2024_clean-APPLE_GREENS.png"></a>
 </figure>
 
 <figure class="half">
