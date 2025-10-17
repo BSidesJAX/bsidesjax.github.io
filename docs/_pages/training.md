@@ -50,7 +50,19 @@ classes: wide
     </tr>
     <tr>
         <td>
-            <p>This isn’t your traditional homelab talk it’s a masterclass in **overengineering the hell out of your homelab**. Why? Because we can. And more importantly because that's how real infrastructure is built.  Most talks stop at “how to set up a homelab” or “what services to deploy.” Not this one.  In this hands-on workshop, we’ll go beyond Docker and VMs to explore how engineers and architects design resilient, scalable systems in production environments and how you can recreate those same practices at home.  **You’ll learn how to build and manage:**  - High availability clusters and quorum logic   - Reverse proxies and load balancers with **HAProxy**, **Nginx**, or **Traefik**   - Internal DNS, service discovery, and local PKI   - Infrastructure monitoring with **Prometheus**, **Grafana**, **Loki**, and **Alertmanager**   - Failure domains, backups, and disaster recovery strategies   - CI/CD pipeline integration with your services   - Orchestration and automation with **Ansible**, **Terraform**, and GitOps flows   - Infrastructure as Code — and why it matters even in your homelab    This workshop is ideal for tinkerers, SREs, engineers, and anyone who wants to simulate real-world production infrastructure at home. You’ll walk away with hands-on knowledge and **resume-ready skills** that make you stand out from the crowd.</p>
+            <p>This isn’t your traditional homelab talk it’s a masterclass in <b>overengineering the hell out of your homelab</b>. Why? Because we can. And more importantly because that's how real infrastructure is built.  Most talks stop at “how to set up a homelab” or “what services to deploy.” Not this one.  In this hands-on workshop, we’ll go beyond Docker and VMs to explore how engineers and architects design resilient, scalable systems in production environments and how you can recreate those same practices at home.</p>
+            <p> You’ll learn how to build and manage:<br>
+            <ul>
+             <li>High availability clusters and quorum logic</li>
+             <li>Reverse proxies and load balancers with HAProxy, Nginx, or Traefik</li>
+             <li>Internal DNS, service discovery, and local PKI</li>
+             <li>Infrastructure monitoring with Prometheus, Grafana, Loki, and Alertmanager</li>
+             <li>Failure domains, backups, and disaster recovery strategies</li>
+             <li>CI/CD pipeline integration with your services</li>
+             <li>Orchestration and automation with Ansible, Terraform, and GitOps flows</li>
+             <li>Infrastructure as Code — and why it matters even in your homelab</li>
+            </ul></p>
+            <p>This workshop is ideal for tinkerers, SREs, engineers, and anyone who wants to simulate real-world production infrastructure at home. You’ll walk away with hands-on knowledge and <b>resume-ready skills</b> that make you stand out from the crowd.</p>
             <p><b>Trainer: </b>Christian McLaughlin<br>
             Christian McLaughlin is an Information Security Professional with over 13 years of combined professional experience in IT systems and avionics. Throughout his career, he has demonstrated expertise in offensive and defensive security, computer networking, automation, avionics, and aviation safety and maintenance.  After spending 8 years in the Naval Aviation, he transitioned to a civilian career in Information Security where he continued his passion for knowledge holding roles as a SOC Analyst, Security Researcher, Security Consultant and Security Engineer.  He is an advocate for teaching others about the awesome world of selfhosting. He advocates teaching others how to build homelabs for themselves and learning enterprise skills with free and open source software (FOSS).</p>
             <p><b>Requirements: </b>A Linux Laptop with the latest version of KVM installed (Lab VM instances can be provided to users with Windows or Mac devices however they will need an SSH Client)</p>
