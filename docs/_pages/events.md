@@ -13,13 +13,14 @@ classes: wide
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E1'>Capture The Flag (CTF)</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/redmagesec_flame.png" alt="Ember the Red Mage" width="500" height="700"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/events/redmagesec_flame.png" alt="Ember the Red Mage" width="500" height="700"></td>
         <td>
-            <p>Join us for this year's competition created by Red Mage Security, the same team that created the awesome 2023 event.</p>
-            <p>The CTF will showcase a diverse range of over 30 challenges with varying difficulties, accross multiple categories, ensuring there's something for everyone, regardless of your skill level.</P>
-            <p>Registration will be availible onsite only. </p>
+            <p>Join us for this year's competition created by Red Mage Security.</p>
+            <p>The CTF will showcase a diverse range of over 20 challenges with varying difficulties, accross multiple categories, ensuring there's something for everyone, regardless of your skill level.</P>
+            <p>Registration will be available onsite only. </p>
         </td>
     </tr>
+    <!--//
     <tr>
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E2'>Lockpick Village</td>
     </tr>
@@ -29,24 +30,25 @@ classes: wide
             <p> Ready to test your skills? The Lockpick Village is your playground. Learn from the pros at <a href="https://twitter.com/fox_pick">@Fox_Pick</a>, try your luck at various locks, and discover the secrets behind physical security. It's a fun and informative way to bolster your security expertise."Here you could learn how to pick locks and participate in fun contests.</p>
         </td>
     </tr>
+    -->
     <tr>
-        <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E3'>Soldering Village</td>
+        <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E3'>📞 The Soldering Village (a.k.a. Hardware Hacking Village)</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/header-web.jpg" alt="Hydra" width="500" height="700"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/events/redPhoneBadge.png" alt="redPhoneBadge" width="500" height="700"></td>
         <td>
-            <p>The Soldering Village (a.k.a. Hardware Hacking Village) is where you can learn to solder your badge.</p>
-            <p>In celebration of BSidesJAX's 10th anniversary, the artwork and badges this year proudly feature a 10-headed hydra — Us. But this is more than just a symbol; it’s an invitation. You have the chance to meet all 10 of our unique personalities by completing the official badge challenge, Hydra.</p>
-            <p>Prove your skill, solve the challenge first, and you could claim the ultimate prize: a coveted black badge, granting you lifetime access to BSidesJAX and the respect of the entire community.</p><p>Do you have what it takes to be truly 31337?<br>#badgelife</p>
+            <p>This year, we decided to phone it in, literally.</p>
+            <p>Grab your iron, take a seat, and put together your retro-inspired badge built around the sounds, tones, and tech that started it all. Afterwards grab up to 3 friends and compete in this year's Official BSidesJAX Badge Challenge, a throwback adventure that blends creativity, electronics, and just a bit of chaos. Be first to complete the challenge and you could earn the ultimate prize, BSidesJAX Black Badges, granting lifetime access to the con and our eternal respect. #badgelife</p>
+            <p>#badgelife</p>
         </td>
     </tr>
     <tr>
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E4'>Wireless Village</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/wvillage.png" alt="Wireless Village" width="500" height="700"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/events/wvillage.png" alt="Wireless Village" width="500" height="700"></td>
         <td>
-            <p>Come join us for the fun at the wireless village!  We will have displays and demos for useful wireless projects such as Meshtastic, APRS, RFID and others.  We will also have free testing for ham (ameteur) radio licenses from 1:30 pm to 3:30 pm!  Bring your Meshtastic device, Ham radio, Flipper or other devices to play with at the con.  Remember, don't hack the venue, and be kind to the con, come and have some fun!</p>
+            <p>Come join us for the fun at the wireless village!  We will have displays and demos for useful wireless projects such as Ham Radios, Meshtastic, APRS, RFID and other devices.  We will also have free testing for ham (ameteur) radio licenses from 1:30 pm to 3:30 pm!  Bring your Meshtastic device, Ham radio, Flipper or other devices to play with at the con.  Remember, don't hack the venue, and be kind to the con, come and have some fun!</p>
             <p>Ham Radio Testing is from 13:30 to 15:30</p>
         </td>
     </tr>
