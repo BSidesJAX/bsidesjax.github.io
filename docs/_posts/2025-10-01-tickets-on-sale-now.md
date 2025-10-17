@@ -6,7 +6,7 @@ author_profile: false
 
 Early-bird tickets for Saturday, November 15th are on-sale.
 
-👉 [Get your ticket today!](https://www.eventbrite.com/e/bsides-jacksonville-2025-tickets-1754411655489?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp){: .btn .btn--danger}
+👉 [Get your ticket today!](https://bsjax.org/EarlyBirdTix){: .btn .btn--danger}
 
 Training tickets for Friday, November 14th will be available soon.
 
