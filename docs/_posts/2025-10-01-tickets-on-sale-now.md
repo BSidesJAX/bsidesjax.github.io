@@ -6,9 +6,10 @@ author_profile: false
 
 Event and Training Tickets are on-sale NOW!
 
+👉 [Training Tickets - November 14th](https://bsjax.org/Training2025){: .btn .btn--danger}
+
 👉 [Event Tickets - November 15th](https://bsjax.org/EarlyBirdTix){: .btn .btn--danger}
 
-👉 [Training Tickets - November 14th](https://bsjax.org/Training2025){: .btn .btn--danger}
 
 
 ## Interested in a free ticket?
