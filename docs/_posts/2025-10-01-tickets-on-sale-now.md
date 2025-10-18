@@ -1,14 +1,15 @@
 ---
-title: "Early-bird tickets are on-sale NOW!"
+title: "Tickets are on-sale NOW!"
 tags: ["Event Update", "Tickets", "2025"]
 author_profile: false
 ---
 
-Early-bird tickets for Saturday, November 15th are on-sale.
+Event and Training Tickets are on-sale NOW!
 
-👉 [Get your ticket today!](https://bsjax.org/EarlyBirdTix){: .btn .btn--danger}
+👉 [Training Tickets - November 14th](https://bsjax.org/EarlyBirdTix){: .btn .btn--danger}
 
-Training tickets for Friday, November 14th will be available soon.
+👉 [Event Tickets - November 15th](https://bsjax.org/Training2025){: .btn .btn--danger}
+
 
 ## Interested in a free ticket?
 
