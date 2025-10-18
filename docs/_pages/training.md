@@ -90,7 +90,16 @@ classes: wide
             <p>You will learn the following material in the specific context of a PIC18 microcontroller: * Reading datasheets and interacting with microcontrollers with vendor-provided tools * Reading configuration bits and unprotected memory regions * Identifying and attacking improper configuration of microcontroller code protection * Interfacing with a UART peripheral in PIC18 assembly * Bit-banging a microcontroller programming specification via an FTDI cable * Dumping code-protected memory regions from a breadboarded microcontroller * Loading the firmware into a disassembler for initial reverse engineering  What this workshop will NOT teach you: * Hardware attacks (e.g., glitching, side-channel analysis, fault injection) * A universal bypass for a properly code-protected PIC18 * In-depth software reverse engineering with Ghidra</p>
             <p><b>Trainer: </b><a href="https://www.linkedin.com/in/rj-crandall/" target="_blank">RJ Crandall</a><br>
             RJ Crandall specializes in low-level software security training regarding the emulation, vulnerability discovery, and exploitation of embedded systems, operating systems, and application software. He has 10+ years of career experience in both national security and private industry, leading teams with dozens vulnerability researchers (VR) and reverse engineers (RE). In these roles, he also created interview processes and made hiring decisions. Attendees may leverage this experience to transition into the VR/RE industry or broaden their professional networks.  Previous training, instructional, and presentation experiences: * RE//verse 2025 Lightning Talk * Reverse Engineering for Interviews @ HackUCF * US Cyber Games Season II Senior Tech Mentor * "Bypassing the Upcoming Safe Linking Mitigation" blog post * Many other blog posts at Research Innovations, Inc (RII) * BSides Orlando 2024 Unconference Talk: “How to Teach Yourself VR/RE” * Many tech talks given at universities and local meetups around the country * Developed an administered company-internal mentoring plans for all new VR/RE engineers and a company-wide tech talk explaining what work the Cyber unit performs</p>
-            <p><b>Requirements: </b> Laptop requirements: * Ability to run a 64-bit virtual machine * VM Specifications: * 4GB RAM * 50 GB Virtual Disk * 4 vCPUs * 2x USB 3.0 (xHCI) ports, concurrently * Tested with: * Ubuntu 24.04.3 LTS Host (AMD) * VirtualBox 7.1.12  Hardware kits will be loaned to attendees and available for purchase separately.</p>
+            <p><b>Requirements: </b>A Laptop with ability to run a 64-bit Intel virtual machine.</p>
+            <p>VM Specifications:
+            <ul>
+                <li>4GB RAM</li>
+                <li>50 GB Virtual Disk</li>
+                <li>4 vCPUs</li>
+                <li>2x USB 3.0 (xHCI) ports, concurrently</li>
+            </ul>
+            <p>Tested with: * Ubuntu 24.04.3 LTS Host (AMD) * VirtualBox 7.1.12</p>
+            <p>Hardware kits will be loaned to attendees and available for purchase separately.</p>
             <p><b>Cost: </b>$200</p>
         </td>
     </tr>

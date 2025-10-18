@@ -15,22 +15,20 @@ classes: wide
     <tr>
         <td style="vertical-align:top;"><img src="../assets/images/events/redmagesec_flame.png" alt="Ember the Red Mage" width="500" height="700"></td>
         <td>
-            <p>Join us for this year's competition created by Red Mage Security.</p>
-            <p>The CTF will showcase a diverse range of over 20 challenges with varying difficulties, accross multiple categories, ensuring there's something for everyone, regardless of your skill level.</P>
-            <p>Registration will be available onsite only. </p>
+            <p>Test your hacking skills in this year's Capture The Flag competition, created and hosted by Red Mage Security. The CTF features over 20 diverse challenges spanning multiple categories and difficulty levels, from beginner-friendly puzzles to advanced scenarios that will push even experienced competitors to their limits. Whether you're new to CTFs or a seasoned competitor, you'll find challenges that match your skill level in areas like web exploitation, cryptography, forensics, and more. Compete individually or form a team to tackle the challenges, earn points, and climb the leaderboard. Prizes will be awarded to the 1st, 2nd, and 3rd place teams at the end of the day. Come sharpen your skills, learn new techniques, and see how you stack up against fellow security enthusiasts!</p>
+            <p>Registration is available onsite only, so be sure to sign up when you arrive at the conference</p>
         </td>
     </tr>
-    <!--//
     <tr>
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E2'>Lockpick Village</td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"><img src="../assets/images/foxpick.jpg" alt="Fox Pick" width="500" height="700"></td>
+        <td style="vertical-align:top;"><img src="../assets/images/events/lockpick-village.png" alt="Lockpick Village" width="500" height="700"></td>
         <td>
-            <p> Ready to test your skills? The Lockpick Village is your playground. Learn from the pros at <a href="https://twitter.com/fox_pick">@Fox_Pick</a>, try your luck at various locks, and discover the secrets behind physical security. It's a fun and informative way to bolster your security expertise."Here you could learn how to pick locks and participate in fun contests.</p>
+            <p> Ready to test your skills? The Lockpick Village is your playground. Explore the world of physical security at our Lockpick Village.</p>
+            <p>Whether you're a complete beginner or experienced enthusiast, you'll get hands-on experience learning how locks work and understanding vulnerabilities in physical security systems. We provide all tools and materials, along with expert guidance to help you pick your first lock or refine your technique. Discover why physical security knowledge is essential for any well-rounded security professional. All skills taught are for educational purposes and ethical security research only.</p>
         </td>
     </tr>
-    -->
     <tr>
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='E3'>📞 The Soldering Village (a.k.a. Hardware Hacking Village)</td>
     </tr>

@@ -41,7 +41,7 @@ classes: wide
         <td><a href="#T3">AI at Altitude: How American Airlines AURA System is Rebooking Passengers with Predictive Automation</a><br><br>Dr. Arsh Arora, Ph.D. & Heather Papoulis</td>
         <td rowspan="7" style='border-left-style:dotted; border-right-style:dotted; border-width:thin;'>
             <a href="/events/#E1">Capture&nbsp;The&nbsp;Flag</a><br><br>
-            <!-- <a href="/events/#E2">Lockpick&nbsp;Village</a><br><br> //-->
+            <a href="/events/#E2">Lockpick&nbsp;Village</a><br><br>
             <a href="/events/#E3">Soldering&nbsp;Village</a><br><br>
             <a href="/events/#E4">Wireless&nbsp;Village</a><br><br>
             Ham&nbsp;Radio&nbsp;Testing<br>(13:30-15:30)<br>
