@@ -36,7 +36,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>11:00-12:00</td>
-        <td><a href="#T1">How to build an effective phishing program</a><br><br>Timothy De Block</td>
+        <td><a href="#T18">The Algorithmic Self: Reclaiming Identity in an AI-Driven World</a><br><br>Carmen Estela</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T2">Unlocking the Secrets of then Mystery-Word Game: A Journey Through NLP and Genetic Algorithms</a><br><br>Eyal Wirsansky</td>
         <td><a href="#T3">AI at Altitude: How American Airlines AURA System is Rebooking Passengers with Predictive Automation</a><br><br>Dr. Arsh Arora, Ph.D. & Heather Papoulis</td>
         <td rowspan="7" style='border-left-style:dotted; border-right-style:dotted; border-width:thin;'>
@@ -73,13 +73,13 @@ classes: wide
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-17:00</td>
         <td><a href="#T13">The Puzzle with missing pieces: Fundamentals of Threat Intelligence</a><br><br>Madeline Sedgwick</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T14">People, Process, and Technology. What is Missing in Cybersecurity?</a><br><br>TJ Zimmer</td>
-        <td><a href="#T15">TBD</a><br><br>TBD</td>
+        <td><a href="#T1">How to build an effective phishing program</a><br><br>Timothy De Block</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>17:00-18:00</td>
         <td><a href="#T16">Build it, Break it, Harden it, Repeat! Learning DevSecOps Skills at Home to Boost Your Resume!</a><br><br>Christian McLaughlin</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T17">3D Shader Programing on Shadertoy</a><br><br>Kyle Pena</td>
-        <td><a href="#T18">The Algorithmic Self: Reclaiming Identity in an AI-Driven World</a><br><br>Carmen Estela</td>
+        <td><!--// <a href="#T15">TBD</a><br><br> //--> Open</td>
     </tr>    
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>18:00-18:30</td>
