@@ -35,4 +35,4 @@ Whether you're a seasoned infosec professional or new to the community, voluntee
 
 👉 [2025 volunteer signup form](https://docs.google.com/forms/d/e/1FAIpQLScqE6U7G9adaBKGYzif1czZvHft-ft4YLChsx27yDq5AGQhSg/viewform?usp=header){: .btn .btn--info}
 
-**Still have Questions?** Check out our [Volunteer page](https://bsidesjax.org/2025/volunteer/), reach out to <info@bsidesjax.org> or even better, join our [Discord](https://discord.gg/rcGFSgyKdY)
+**Still have Questions?** Check out our [Volunteer page](https://bsidesjax.org/volunteer/), reach out to <info@bsidesjax.org> or even better, join our [Discord](https://discord.gg/rcGFSgyKdY)
