@@ -144,7 +144,7 @@ classes: wide
             </ol>
             <br>
             Attendees will leave with a high-level understanding of how AURA works, the implications of real-time automation, and what this could mean for future human-AI coordination.</p>&nbsp;<br><br>
-            <p><b>Speaker: </b><a href="/speakers/#S2">Dr. Arsh Arora, Ph.D.</a> and <a href="/speakers/#S11">Heather Papoulis</a></p>
+            <p><b>Speaker: </b><a href="/speakers/#S2">Dr. Arsh Arora, Ph.D.</a> and <a href="/speakers/#S15">Heather Papoulis</a></p>
         </td>
     </tr>
     <tr>
