@@ -197,7 +197,7 @@ classes: wide
                 <li>Erika</li>
             </ul>
             </p>
-            <p><b>Moderator: </b>Brandi Kiehl</p>
+            <p><b>Moderator: </b><a href="/speakers/#S16">Brandi Kiehl</a></p>
         </td>
     </tr>
     <tr>
