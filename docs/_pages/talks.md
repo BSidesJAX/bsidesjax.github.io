@@ -61,7 +61,7 @@ classes: wide
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>14:00-15:00</td>
-        <td><a href="#T7">Women In Technology (WIT) Pannel: Paranoia</a><br><br>Moderated by Brandi Kiehl</td>
+        <td><a href="#T7">Women In Technology (WIT) Panel: Paranoia</a><br><br>Moderated by Brandi Kiehl</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T8">Building Better Security Tooling: Using Human Centered Design to Build and Deploy Effective Security Tools</a><br><br>Spence</td>
         <td><a href="#T9">Prompt Engineering 101: Practical AI Skills for the Security Professional</a><br><br>George Raileanu</td>
     </tr>
