@@ -175,7 +175,7 @@ classes: wide
         </td>
     </tr>
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T7'>Women In Technology (WIT) Pannel</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T7'>Women In Technology (WIT) Panel</td>
     </tr>
     <tr>
         <td>
