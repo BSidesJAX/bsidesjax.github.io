@@ -189,12 +189,13 @@ classes: wide
             <p>Let our expert panel of 5 women help you understand the advantages and disadvantages of paranoia as well as determining a healthy level for all of the people in our daily lives like our vendors, customers, co-workers, clients, family, etc. And let’s build better relationships both because and with it.
             </p>
             <p>Panelists:
-            <ul>
-                <li>Taryn Swietek, Executive Cybersecurity & Risk Leader, Google)</li>
-                <li>Rebecca Hughes, VyStar</li>
-                <li>Vanessa, Microsoft</li>
-                <li>Dawn Carrie, CISO, Purecyber</li>
-                <li>Erika</li>
+            <ul><!-- TODO: Add title and company -->
+                <li>Angelina Grissom</li>
+                <li>Brooke Chateau</li>
+                <li>Dawn Carrie Montemayor</li>
+                <li>Kimberly Mansour</li>
+                <li>Petrina Reynolds</li>
+                <li>Tracy Janes</li>
             </ul>
             </p>
             <p><b>Moderator: </b><a href="/speakers/#S16">Brandi Kiehl</a></p>
