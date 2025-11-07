@@ -53,6 +53,12 @@ Are you interested in being a sponsor for this year's event? Check out the [Spon
   <img src="/assets/images/sponsors/White_Knight_Labs_FF_small.png"></a>
 </figure>
 
+<figure class="third">
+<figcaption>Schedule</figcaption>
+  <a href="https://hackertracker.app/" target="_blank">
+  <img src="/assets/images/sponsors/ht_play_store_512.png"></a>
+</figure>
+
 <!--//START/ TODO: Update Prizes Sponsor
 
 //-->
