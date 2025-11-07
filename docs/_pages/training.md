@@ -13,7 +13,7 @@ classes: wide
 
 :bangbang: **NOTICE**: All Training Sessions are at The University of North Florida, University Center, located at: [12000 Alumni Drive, Jacksonville, FL 32224](https://www.unf.edu/universitycenter/directions.html)<br>
 :star: Please check the posted schedule for updates. The schedule is subject to change.<br>
-<!--// TODO: Get Listed on HT // :star: The schedule is also available on [HackerTracker.app](https://hackertracker.app/schedule/?conf=BSIDESJAX2025) //-->
+:star: The schedule and event details are also available on [HackerTracker.app](https://hackertracker.app/schedule?conf=BSIDESJAX2025)
 {: .notice--info}
 
 {::nomarkdown}
