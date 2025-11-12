@@ -8,9 +8,9 @@ classes: wide
 
 # Floor Plan
 
-![image-center](/assets/images/BSidesJax-2023-map-final.png){: .align-center}
+![image-center](/assets/images/2025-bsjax-floor-plan.png){: .align-center}
 <br>
 
-Download a [PDF version](/assets/files/BSidesJax-2023-map-final.pdf) of this year's floorplan for offline viewing.
+Download a [PDF version](/assets/files/2025-bsjax-floor-plan.pdf) of this year's floorplan for offline viewing.
 {: .align-center}
 
