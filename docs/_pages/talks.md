@@ -75,7 +75,7 @@ classes: wide
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>16:00-17:00</td>
         <td><a href="#T13">The Puzzle with missing pieces: Fundamentals of Threat Intelligence</a><br><br>Madeline Sedgwick</td>
         <td style='border-right-style:dotted; border-left-style:dotted; border-width:thin;'><a href="#T14">People, Process, and Technology. What is Missing in Cybersecurity?</a><br><br>TJ Zimmer</td>
-        <td><a href="#T1">How to build an effective phishing program</a><br><br>Timothy De Block</td>
+        <td><a href="#T1">Hacking Past Applicant Tracking Systems (ATS)</a><br><br>Brandi Kiehl</td>
     </tr>
     <tr>
         <td style='background-color:#D5D8DC; font-weight:700; border-right-style:dotted; border-left-style:dotted; border-width:thin;'>17:00-18:00</td>
@@ -105,14 +105,13 @@ classes: wide
 <h2>Talks</h2>
 <table style="width:100%; border-style:solid; border-color:#ABB2B9; border-width:thin; border-radius: 8px;">
     <tr>
-        <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>How to build an effective phishing program</td>
+        <td style='background-color:#F2F3F4; font-weight:700;' id='T1'>Hacking Past Applicant Tracking Systems (ATS)</td>
     </tr>
     <tr>
         <td>
-            <p>Phishing attacks remain one of the most pervasive and successful tactics used by cybercriminals to get into organizations. But how do you create a phishing awareness program that goes beyond checking boxes and truly changes behavior? In this presentation, we’ll dive into the art and science of building an engaging, effective phishing program that empowers your workforce to recognize and respond to threats.<br>
-            This session will blend actionable strategies with real-world stories, including insights from several years of crafting phishing simulations. You’ll discover how to design realistic campaigns, analyze results, and tailor training to address gaps—all while keeping employees motivated and engaged. Learn how to educate without alienating and evolve your program to ever-changing phishing tactics.<br>
-            Whether you’re just starting your phishing awareness journey or looking to enhance an existing program, this presentation will equip you with the tools, best practices, and memorable anecdotes to hook your employees’ attention and build a better culture of security.</p>
-            <p><b>Speaker: </b><a href="/speakers/#S1">Timothy De Block</a></p>
+            <p>Ever wonder why your resume ends up in a black hole when you submit it online? You know what your resume looks like, but do you ever wonder how a computer sees your resume?</p>
+            <p>Let us show you how to use analytics and trends to make your resume stand out not only to HR, but also to the computer. Guaranteed to be a light bulb moment for your career search efforts! Beneficial for all levels including those transitioning fields, trying to enter the industry or trying to make a career move.</p>
+            <p><b>Speaker: </b><a href="/speakers/#S15">Brandi Kiehl</a></p>
         </td>
     </tr>
     <tr>

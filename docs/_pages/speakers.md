@@ -189,19 +189,6 @@ classes: wide
         </td>
     </tr>
     <tr>
-        <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S1'>Timothy De Block</td>
-    </tr>
-    <tr>
-        <td style="vertical-align:top;">
-            <img src="../assets/images/speakers/Timothy_De_Block.jpg" alt="Timothy De Block" class="headshot">
-        </td>
-        <td>
-            <p>In the vast, uncharted expanse of the digital frontier, Timothy De Block holds the title of Head of Security Exploration at Exploring Information Security—think of him as the cybersecurity equivalent of an intergalactic explorer, but with fewer spaceships and more firewalls. My mission? To boldly go where no security program has gone before, mapping the hidden threats and uncovering innovative solutions to keep the cyberverse safe.
-            <br><br><i class="fab fa-linkedin" aria-hidden="true" style="color:#6c757d"></i> <a href="https://www.linkedin.com/in/timothy-deblock/   ">https://www.linkedin.com/in/timothy-deblock/</a> <i class="fas fa-external-link-alt" aria-hidden="true" style="color:#6c757d"></i></p>
-            <p><small><i class="fas fa-arrow-left" aria-hidden="true" style="color:#6c757d"></i> <a href="/talks/#T1">Back to talk</a></small></p>
-        </td>
-    </tr>
-    <tr>
         <td colspan="2" style='background-color:#F2F3F4; font-weight:700;' id='S14'>Trisha Stalnaker</td>
     </tr>
     <tr>
