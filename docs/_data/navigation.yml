@@ -19,8 +19,8 @@ main:
     url: /volunteer/
   #- title: "Posts"
   #  url: /posts/
-  #- title: "Floor Plan"
-  #  url: /map/
+  - title: "Floor Plan"
+    url: /map/
   - title: "FAQ"
     url: /faq/
   #- title: "CTF"
