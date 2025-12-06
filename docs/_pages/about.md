@@ -36,7 +36,7 @@ If you are interested in being a volunteer for this year's event check out the [
 | 2020 <br> 2022 |  Events not held due to COVID19 health concerns. |
 | [2023](https://www.bsidesjax.org/2023/) | Seventh B-Sides Jax, venue moved to UNF’s Adam W. Herbert University Center|
 | [2024](https://www.bsidesjax.org/2024/) | Eighth B-Sides Jax, UNF’s Adam W. Herbert University Center|
-| [2025](https://www.bsidesjax.org/) | Ninth B-Sides Jax, UNF’s Adam W. Herbert University Center|
+| [2025](https://www.bsidesjax.org/2025/) | Ninth B-Sides Jax, UNF’s Adam W. Herbert University Center|
 
 ## What is Security BSides?
 
